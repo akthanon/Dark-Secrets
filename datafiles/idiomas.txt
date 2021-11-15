@@ -1,0 +1,3181 @@
+[español]
+#NPCs Animales
+0=una Kaley
+1=un conejo
+2=un gato
+3=un cerdito
+4=una ardilla
+5=un perro
+6=un ratón
+7=una gallina
+8=un pollito
+9=un mono
+10=un oso
+11=un pez
+12=un pato
+
+#NPCs
+13=los creditos
+14=Kobby
+15=Juan Sancho II
+16=Mer el Mago
+17=Kaley Jimenez
+18=Junny el Conejo Cúbico
+19=Muppy la Gata
+20=Pesito
+21=el Ratoncito Jorge
+22=Zapilla la Ardilla
+23=Rirkuz el Oso
+24=Morag el Mono
+25=Dogurax el Perro
+26=Cerdi el Pocino
+27=una pesadilla
+28=un enemigo de pruebas
+29=Lizandra
+30=Sharon
+31=Luna
+32=Rogelio
+33=Winny
+34=Trapecio el Tramposo
+35=Trapecio el Glorioso
+36=Trapecio el Viajero
+37=Cerdi
+38=Mivi
+39=Sylvie
+40=tu Papá
+41=Crowney el Payaso Loco
+42=Héctor
+43=Miriam
+44=Mer el Mago?
+45=el Gordo
+46=Juanito
+47=Lucas el Mago Anciano
+48=La Gorda
+49=Bunny
+50=Zenómeri
+51=Pepper
+52=Murciegato
+53=Rigoberto
+
+#Objetos
+54=una puerta
+55=una palanca universal
+56=una palanca
+57=una segunda palanca universal
+58=picos de pared
+59=una Bola Mágica
+60=un Fragmento de Colztrok
+61=????????????????????????
+62=una Llave
+63=un Frasco de Regeneración
+64=un Frasco de Aguante
+65=aguante puro
+66=un aumento de velocidad de regeneración de vida
+67=un lugar para guardar
+68=un objeto importante
+
+#Enemigos
+69=un elemento de daño
+70=un enemigo
+71=un ataque
+72=un elemento de no sumergimiento
+73=un elemento de daño total
+74=un proyectil
+75=un pico mortal
+76=una Abominación
+77=una Piraña Oscura
+78=un Fragmento de Ángel
+79=una Ave de Pesadilla
+80=un Súbdito de Kobeth-Mo
+81=Colztrok
+82=una Sombra Pesadilla
+83=un Fantasma Oscuro
+84=una Sierra
+85=un bloque de lava
+86=unas cuchillas gigantes
+87=un hacha gigante
+88=una bola peligrosa
+89=una bola gigante
+90=un lugar para guardar?
+91=Nawniat la guerrera onírica
+92=Sombra de Nawniat
+93=Gran Gusano de Eternus
+94=El cuerpo del gran gusano de eternus
+95=Usurpador de eternus
+96=Bendejian la Bestia Oscura
+97=Lamperial el Pez de las Profundidades
+98=Ángel la Última Pesadilla de Kobeth-Mo
+
+#Dialogos Animales
+100=Salto Salto.
+101=Miau Miau.
+102=Oink Oink.
+103=Iyiyiy.
+104=Ig Ig.
+105=Guau Guao.
+106=Grrrrrr...
+107=Map.
+108=Kiki Ricky.
+109=Pio Pio.
+110=Uh Uh Ahhh.
+111=Banana.
+112=Oso Oso.
+113=Glu, Glu, Glu.
+114=Cuack Cuack.
+
+#Dialogos NPCs
+
+#Intro
+115=La guerrera Kaley y su fiel acompañante murciegato se aventuran en las decadentes tierras de Niria para derrotar al señor de las pesadillas.
+116=Kobeth-Mo, se ha materializado en el mundo real y ha dominado todo el sistema de Niria convirtiéndolo en las ahora llamadas Tierras Oscuras.
+117=Kaley y Murciegato tienen que derrotar al señor de las pesadillas si quieren sobrevivir y así regresar todo a la normalidad.
+
+#Kobby
+118=Muchas gracias por salvarme.
+119=Me había quedado atrapado en mi propio mundo onírico.
+120=El mundo de Kobeth-Mo.
+
+121=Ángel aprovechó para destruirme al encontrar mi identidad en el mundo real.
+122=Pero creo que soy alguna especie de Entidad Onírica o algo así, no estoy muy consciente de eso sabes?
+123=Cuando sueño soy causante de muchas pesadillas, para mí es un horror el haber descubierto eso.
+
+124=¿Cuál es tu nombre?
+125=¿Kaley?..
+126=¿Kaley y murciegato, me ayudarían a acabar con este sufrimiento?
+
+127=El sueño se transforma en una pesadilla interminable.
+128=Regresar al mundo real, antes de ser asimilado por mi contraparte en el mundo onírico.
+129=Si terminan conmigo terminarán con Kobeth-Mo, el señor de las pesadillas.
+
+130=Adios Kaley.
+131=Adios Murciegato.
+
+#Pontifice Cerdi
+132=Oink Oink.
+
+#Mer
+133=¿Cómo llegué aquí?
+
+#Kaley Jimenez
+134=... ... ...
+
+#Junny 1
+135=Salto, Salto.
+
+#Junny 2
+136=Muchas gracias por rescatarme.
+137=Mi nombre es Junny.
+138=Esa criatura con forma de pesadilla me había tenido atrapado todo este rato.
+139=¿Qué? ¿Tú no puedes salir?
+
+140=Pues salta como conejo.
+
+141=Salto, Salto.
+142=¿No sabes saltar?
+143=Está bien, yo te enseñaré a saltar.
+144=***Haz aprendido el salto Doble***
+
+145=Salto, Salto.
+146=Salto, Salto.
+
+147=Nos vemos en la ciudad de Midtra.
+
+#Muppy 1
+148=Mimimimi Mimi.
+149=Ñañañaña.
+
+#Muppy 2
+150=Mimimimi Mimi.
+151=Ñañañaña.
+152=Tengo Hambre.
+153=Me quería comer este pescadote, pero después él me quizo comer a mí.
+
+154=Ahora necesito salir de aquí.
+155=¿Tú sabes cómo salir?
+
+156=¿Ves esas espinas de la derecha? Las puedes esquivar si avanzas muy rapido.
+157=Esa es la forma de salir. Te enseñaré como hacerlo.
+158=***Haz aprendido a usar el Dash***
+159=***Presiona la tecla SHIFT en el teclado o el botón (RB) en el contról para usarlo cuando estés en el suelo***
+
+160=Pprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.
+
+161=Iré a cazar ratones en Midtra.
+
+#Pesito 1
+162=Glu, Glu, Glu.
+
+#Pesito 2
+163=Glu, Glu, Glu.
+164=¿Glu, Glu, Glu?
+165=Disculpa, creí que eras un pez.
+166=Esta es mi casa, se bienvenido.
+
+167=¿Qué? ¿tu no puedes nadar?
+
+168=Si quieres nadar por el mar, tienes que aprender.
+169=Yo te enseñaré a nadar.
+170=Glu, Glu, Glu, Glu, Glu, Glu, Glu, Glu.
+171=***Haz aprendido el Nado en el Agua***
+
+172=Iré de visita a la ciudad de Midtra.
+173=¿También la irás a visitar?
+
+174=Nos vemos allá entonces.
+
+#Ratoncito Jorge 1
+175=Mira Kaley, ya llegué a mi casa.
+176=Muppy es mi waifu pero ella prefiere jugar con otros ratones.
+177=¿Qué podré hacer para llamar su atención?
+
+#Ratoncito Jorge 2
+178=Vaya, he estado mucho rato tratando de salir de aquí y no he podido.
+179=Muchas gracias por salvarme, mi nombre es Ratoncito Jorge.
+180=Te enseñaré una técnica ancestral como agradecimiento.
+181=Es el escudo onírico, un arma sacada desde el mismísimo mundo de los sueños.
+182=***Haz aprendido la técnica ancestral del escudo onírico***
+
+183=¿Qué? ¿No sabes cómo usarlo? Solo preciona el click derecho del ratón.
+184=Yo no, el otro ratón.
+
+185=El escudo onírico canaliza una pequeña fracción de energía proveniente de la dimensión E8, de tus propios sueños.
+186=Una vez canalizada la energía onírica, puedes materealizarla en las dimensiones inferiores.
+
+187=Te sirve para protegerte de todo tipo de enemigos, pero funciona especialmente con las pesadillas.
+188=A esto también se le conoce como Magia Onírica, pero no es el único tipo de magia que existe.
+
+189=La Magia Cósmica de las dimensiones E1, E2 y E2 en los planos X, Y, Z. Es la magia más común que existe.
+190=Hypermagia W, proveniente de la dimensión E4, es la Magia que llegan a utilizar algunas entidades cósmicas como Colztrok o Ketradim.
+191=Magia del Triángulo dimensional, obtiene su energía de las dimensiones E5, E6 y E7, las fuerzas fundamentales, la mecánica cuántica.
+192=La Magia Onírica, una de las magias más poderosas que existen, ya que está por encima de todas las demás magias inferiores.
+193=La potencia de esta magia se debe a que la mayoría de la consciencia de todos los seres reside principalmente en el Plano Onírico, o Dimensión E8.
+194=Para las dimensiones superiores a la E8 va más allá de mi alcance, me es imposible dominarlas.
+
+195=Pero si quieres te cuento sobre ellas.
+196=La dimensión E9. La dimensión que se encuentra por encima del mundo onírico, algunos hasta dicen que esta dimensión es una dimensión extra del mismo mundo.
+197=Pero lo cierto es que a pesar de sus similitudes esta requiere un estado aún mayor de energía para poder viajar entre ella.
+198=La Magia del mundo Primigenio en el E10, es la magia más poderosa de todas. Es donde reside la consciencia de Uknioh y se derivan las demás consciencias del Universo.
+
+199=Map.
+200=Te seguiré contando de esto después.
+
+#Zapilla 1
+201=Oie morro, ¿kiere droga?
+
+#Zapilla 2
+202=Piap Piap.
+203=¿Qué haces aquí?
+204=Yo vine por nueces.
+205=¿Quieres una?
+
+206=Ohh ya veo, unas pesadillas te están persiguiendo.
+207=Y no sabes el porqué.
+
+208=Bueno, ¿te enseño algo chévere para que puedas escapar más fácilmente?
+209=Con esto puedes saltar y avanzar rápido a la vez.
+210=***Haz aprendido a usar el Dash en el aire***
+211=***Presiona la tecla SHIFT en el teclado o el botón (RB) en el contról para usarlo cuando estés en el aire***
+
+212=Pero ten cuidado, con esto no puedes esquivar a las pesadillas más mortales, aqueyas que te destierran al instante.
+
+213=Nos veremos luego.
+214=yig yig.
+
+#Rirkuz 1
+215=No soy Zamioso.
+
+#Rirkuz 2
+216=Oso Oso.
+217=¿Qué haces aquí?
+218=Yo vine por miel.
+219=¿Quieres?
+
+220=Ohh ya veo, unas pesadillas te están persiguiendo.
+221=Y no sabes el porqué.
+
+222=Bueno, ¿te enseño algo chévere para que puedas regresar más fácilmente?
+223=Con esto te podrás regresar a la ciudad de Midtra.
+224=***Haz obtenido la habilidad para regresar a Midtra***
+225=***Deja presionada la tecla (Q) o el botón (Y) para regresar. También habra teletransportadores para que regreses a los lugares que ya has visitado***
+
+226=Pero ten cuidado, con esto no puedes regresar al instante.
+
+227=Nos veremos luego.
+228=Oso Oso.
+
+#Morag 1
+229=Uh Uh aaah.
+
+#Morag 2
+230=Uh Uh Ahhh.
+231=¿Qué haces aquí?
+232=Yo vine por bananas.
+233=¿Quieres una?
+
+234=Ohh ya veo, unas pesadillas te están persiguiendo.
+235=Y no sabes el porqué.
+
+236=Bueno, ¿te enseño algo chévere para que puedas escapar más fácilmente?
+237=Con esto puedes saltar y avanzar rápido a la vez.
+238=***Haz aprendido a usar el mapa para ver tesoros***
+239=***Los tesoros se indicarán en el mapa***
+
+240=Buena suerte.
+
+241=Nos veremos luego.
+242=Banana.
+
+#Dogurax
+243="Te regeneras "
+244=" puntos de vida por frasco. Si me traes "
+245=" frascos de regeneración te daré una mejora que te permita regenerar el doble, o sea "
+246=" puntos de vida por frasco."
+
+247=Luego te compraré más, por ahora es suficiente.
+
+248=¿Entonces los aceptas?
+249=>>>>Transacción completada<<<<
+
+250=No tienes los frascos suficientes.
+
+#Cerdi
+251=No te robes los objetos que me encontré.
+
+#Pesadilla
+252=Amo Khobeth-Mo ¿Es usted?, gracias por salvarme.
+253=Esa pesadilla me tenía atrapado aquí.
+254=Varios de mis hermanos han escapado del mundo onírico.
+255=Pero ellos han venido por usted.
+
+256=¿Amo, usted no sabe de qué estoy hablando?
+
+257=Creo que se encuentra en un estado muy profundo de lucidez, y por eso se encuentra en ese estado.
+258=Creo que debería ayudarlo, si tiene algún tipo de Magia Onírica yo acudiré a su servicio.
+259=Pero solo será por unos instantes ya que al parecer usted está demasiado lúcido y su poder Onírico es algo débil.
+260=***Haz aprendido el Contraataque con el Escudo Onírico***
+
+261=Cuando se duerma amo, yo lo ayudaré en todo momento.
+262=Mi amo y señor de las pesadillas, Khobeth-Mo.
+
+263=Puede practicar el contrataque con este muñeco de pruebas.
+264=El contrataque se realizará justo en el momento en el que el escudo es sacado e impacte con un enemigo o ataque.
+265=No funciona con todos los enemigos, como los virus, pirañas, púas o sierras ya que en sí no te atacan, eres tú quien se topa con ellos.
+266=Tampoco Funciona en gigantes y las aves pesadilla hasta el momento que te ataquen.
+267=Aunque el objetivo no haya realizado el ataque yo mandaré al mundo a todo ser viviente con quien me encuentre.
+268=Por lo que puedo dañar pirañas o virus si realizas el contrataque con otra pesadilla.
+
+#Enemigo Prueba
+269=Mátame con el Escudo Onírico.
+
+#Lizandra
+270="Hola mi nombre es Lizandra."
+271="Vivo en Midtra."
+272="Pero ando buscando a mi esposo."
+273="Se fue a cazar a la bestia oscura que asecha nuestras tierras."
+
+274="Lo he buscado por todas partes pero no lo encuentro."
+275="¿Me ayudarías a buscarlo?"
+
+276="¿Que si que es la bestia oscura?"
+277="Nadie conoce su naturaleza."
+278="Pero desde que llegó ese Kobby..."
+
+279="Desde la llegada de Kobby."
+280="..."
+
+281="He tenido demasiadas pesadillas."
+
+282="Kobeth-Mo...Ellos siempre pronuncian ese nombre."
+283="Primero la llegada de Colztrok, pero ahora pasa esto."
+284="Vaya veo que tienes muchos fragmentos de Colztrok contigo."
+
+285="Los fragmentos de Colztrok son nuestra nueva moneda, después del apocalipsis ocurrido en todo el sistema de Niria."
+286="Estoy segura que está ligado a esa pequeña bola rosada."
+
+287="Estábamos mejor con el Imperio Iegvosiano."
+288="Gloria a Iegvó."
+
+#Sharon
+289="Mmmm...."
+290="Mmmmmmm."
+291="MM..Oh hola niña."
+292="Mi nombre es Sharon y soy una aventurera."
+
+293="Intento ir por la puerta del dragón para ir a Kentrania pero no se cómo cruzar esa puerta."
+
+294="También intenté ir de camino hacia Celestia las tierras altas, pero necesito un gancho para poder escalar."
+295="Dicen que el payaso del circo tiene un gancho, tal vez debería ir por él."
+296="La entrada queda por abajo siguiendo el camino de la feria."
+297="¿Sabías que esa feria fue construida sobre un asteroide que cayó del espacio?"
+
+
+298="Mientras tanto iré de paso hacia Midtra."
+299="Si pasas por allá, no olvides visitar la tienda de Murciegato, tienen muchas curiosidades por ahí."
+
+300="Mmmm...."
+301="¿Cómo podré robarle el gancho al payaso?"
+
+302="Mmmm...."
+303="Mmmmmmm."
+304="MM..Oh hola de nuevo niña."
+305="Estoy perdida, no sé cómo salir de aquí."
+
+306="¿Ustedes tampoco?"
+
+307="Le he dado bastantes vueltas a este bosque."
+308="Pero no consigo salir de aquí."
+309="La salida debe estar en algún lugar."
+310="Hay una cabaña más adelante, tal vez sea una pista para salir de aquí."
+
+311="Para entrar a la cabaña se tienen que conseguir 3 llaves."
+312="¿Pero dónde estarán?"
+
+313="Mmmm...."
+314="¿Dónde estarán las llaves?"
+
+315="Oh vaya, veo que por fin saliste del bosque y ambas llegamos a salvo a Midtra."
+316="¿Qué ya habías pasado por aquí?"
+317="Entonces tomé el camino equivocado."
+318="Pero de igual manera llegué a salvo."
+    
+319="¿Ya pasaste por la tienda de Murciegato?"
+320="Yo me compré una espada que tenían de sobra por ahí."
+321="Ya no estoy tan indefensa eh."
+
+322="La próxima vez que te vea nos podríamos echar un duelito."
+323="¿Qué te parece?"
+    
+324="También compré el último gancho que tenía Mivi, con esto podré abrirme paso hacia el circo."
+325="E incluso podría ir hasta Celestia, pero a Kentrania no, es muy peligroso ir por allá y no hay nada interesante."
+    
+326="Si nos volvemos a ver estaré por el Circo de Miknockrin."
+327="¿O tal vez será en Celestia?"
+
+328="Muchas gracias por salvarme."
+329="No se cómo terminé atrapada aquí."
+330="Quise recoger el gancho pero la puerta se cerró y me dejó atrapada."
+331="¿Qué hubiera hecho sin tu ayuda?"
+    
+332="Es hora de partir en camino a Celestia."
+333="¿Que a qué voy hacia allá?"
+334="Es un secreto."
+
+335="Tal vez no le pude robar el gancho al payaso pero aún conservo el que me vendió Mivi."
+336="¿Qué te parece?"
+    
+337="También compré el último gancho que tenía Mivi, con esto podré abrirme paso hacia el circo."
+338="E incluso podría ir hasta Celestia, pero a Kentrania no, es muy peligroso ir por allá y no hay nada interesante."
+    
+339="Si nos volvemos a ver estaré por el Circo de Miknockrin."
+340="¿O tal vez será en Celestia?"
+
+#Sharon Atrapada
+341="Mmmm...."
+342="MMmmmm."
+
+343="Ohh hola niña."
+344="No se cómo quedé atrapada en este lugar."
+
+345="¿Me ayudas a salir de aquí?"
+
+#Sharon Final
+346="No se cómo subir hacia Miknokcrin."
+347="Un solo gancho será suficiente para llegar hasta allá."
+348="Se necesita algo más largo."
+349="¿Pero qué chingados estoy pensando?"
+
+350="¿Un simple gancho para llegar a un jodido cinturón de asteroides?"
+351="¿Ya estoy hasta la mierda de esto sabes?"
+
+352="Soy una inutil, no puedo resolver los problemas por mi propia cuenta."
+353="¿Sabes qué? me rindo, te regalo mi gancho."
+354="Tal vez si lo juntas con el tuyo podrás llegar más lejos."
+355="***La longitud de tu gancho ha aumentado demensialmente***"
+
+356="No podré salvar a mi amigo Kobby a este paso."
+
+357="A la mierda con todo."
+358="Trataré de ir através del mundo onírico."
+
+#Luna
+359="Oye, yo a ti te conozco."
+360="Tu nombre es Kaley y ese es tu compañero Murciegato."
+361="Tu tío Deon y yo hemos venido a buscarte."
+362="Tu madre Annie te está esperando."
+
+363="Ven con nosotros."
+364="Te ayudaremos a salir de aquí."
+365="Ahora solo falta encontrar a tu padre."
+366="No te vayas a meter en muchos problemas."
+
+367="Ven a verme cuando hayas encontrado a tu padre."
+368="Te estaré esperando en la Zona central de Encordia."
+369="Justo a las afueras de la puerta del dragón."
+
+370="Ya encontré a tu padre."
+371="Nos está esperando en la nave junto con Deon."
+372="Solo faltas tú."
+373="¿Aún tinees asuntos pendientes en Niria?"
+
+374="Está bien te esperaremos."
+375="No sé qué otras cosas te falten por hacer."
+376="Pero aquí estaremos."
+377="Aunque debes apresurarte, no sé qué tan inestable sea Kobeth-Mo."
+
+378="Está bien. Esperaré a que termines tus asuntos pendientes."
+
+#Rogelio
+
+379="Mi hermano es trabajador del circo."
+380="El payaso malvado lo obliga a trabajar con él."
+381="Quiero ir a rescatarlo de ese horrible trabajo pero no puedo pasar la entrada."
+382="Está completamente cerrada."
+
+383="¿Algúna idea del cómo podría atravesarla?"
+
+384="¿No sabes a dónde ir?"
+385="Mira, más hacia el sur está la ciudad de Midtra."
+386="Es la ubicación más cercana que te puedo dar."
+387="¿Me estás preguntando por el circo?, ¿No ves que ni yo puedo pasar?"
+
+388="¿Una llave tal vez?"
+389="¿O algún objeto en especial?"
+
+390="Nos veremos luego niña."
+
+391="Muchas gracias por abrir la entrada."
+392="Ahora estaré de camino al circo."
+393="Espero poder llegar a tiempo para salvar a mi hermano."
+
+394="Si te lo encuentras primero que yo trata de hacer que deje ese trabajo."
+395="Si no lo encuentro, no sabría qué hacer."
+
+396="Nos veremos luego niña."
+
+397="No encuentro a mi hermano por ninguna parte."
+398="¿Qué? ¿Dices que lo has visto?"
+399="¿Simplemente desapareció sin decir nada?"
+
+400="Oh ya veo..."
+401="..."
+
+402="Ya no nos veremos luego niña."
+
+403="Oye niña, ¿Me ayudas?"
+
+#Winny
+404="Hola mi nombre es Winny."
+405="Aún no veo la luz en ti."
+406="No tienes el suficiente conocimiento."
+407="Necesitas más monedas raras"
+
+408="Las monedas raras que tienes son: "
+
+409="Luego te explico, ven a verme cuando consigas más monedas raras."
+
+410="Ya Tienes las 20 monedas raras."
+411="Tu luz comienza a brillar más fuerte."
+412="Ya tienes el conocimiento suficiente."
+413="Solo tú sabes qué hacer con él."
+
+414="Pronto averiguarás que tienes que hacer."
+415="¿Pero quieres una explicación?"
+
+416="Asesina a Trapecio y Termina de asimilar a Colztrok de una vez por todas."
+417="Trapecio es una entidad muy poderosa de la dimensión E9, el mundo Celestial."
+418="Trapecio también conocido con su nombre real Balul-Tha."
+419="Es quien te impedía que obtuvieras el poder de Colztrok. Pero asesinando a su avatar trapecio obtendrás algo de tiempo."
+
+420="Asesina a Trapecio."
+421="No hace falta que derrotes a Angel ni a Kobeth-Mo, Trapecio es quien controla todo."
+
+#Trapecio
+422="Hola mi nombre es Trapesio."
+423="¿Estás aquí porque eres un tramposo no?"
+424="Utilizaste algún programa externo para acceder a esta zona."
+425="Este es el verdadero final del juego. De cualquier forma te eliminaré todo el progreso de la partida."
+426="Muere."
+
+427="Hola mi nombre es Trapesio."
+428="¿Estás aquí porque ya obtuviste todas las monedas raras no?"
+429="Felicitaciones, has desbloqueado el modo hardcore."
+430="Te regresaré en el tiempo, justo al instante en el que comenzaste tu aventura en las Shadowlands."
+431="Adios."
+
+432="¿Hola Kaley me recuerdas?"
+433="¿Estás aquí porque de nuevo ya obtuviste todas las monedas raras no?"
+434="Si sigues así te quedarás atrapada en bucles temporales."
+435="De igual manera te regresaré en el tiempo, justo al instante en el que comenzaste tu aventura en las Shadowlands."
+436="Nos vemos, no vuelvas a hablar conmigo si no quieres volver a caer en bucle temporal."
+
+#Cerdi
+437="Hola Guapa."
+438="¿Quieres culear un rato?"
+439="Vamos tranquila morrita que no muerdo."
+440="Saca a las amigas."
+
+441="¿Espera eres legal no?"
+442="20 años."
+443="Uy lo siento no salgo con menores de 40."
+
+444="Pero cuando crescas y te vuelvas legal te invito a culear ¿qué te parece?"
+445="¿Por qué no dices nada?"
+446="Traigo condones."
+447="¿No te interesan jovencitos como yo?"
+
+448="Aunque no lo parezca solo tengo 10 años."
+
+#Mivi
+449="Ahora yo soy murciegato."
+
+#Mivi Humano
+450="Hola Kaley."
+451="Hola Murciegato."
+452="Ya regresé a la normalidad."
+453="Me pregunto a donde habrá ido mi jefecita."
+
+454="Espero que muy pronto lleguen nuevos productos a mi tienda."
+455="¿Que dice murciegato?"
+456="¿Que es su tienda?"
+
+457="Pero yo se la compré a un sujeto gordo."
+458="Solo le tuve que dar 4 fragmentos de Colztrok, toda una ganga."
+
+459="No me dijo su nombre."
+460="Nomas sé que era un sujeto gordo."
+
+461="Compren compren lo que quieran."
+
+462="¿Dicen que mi Mamá me está esperando en Kentrania?"
+463="Está bien, luego iré para allá."
+464="Primero empacaré mis cosas."
+465="Me da miedo mi Jefecita."
+
+466="En un momento voy."
+
+#Mivi Muerto
+467="Pipipipipi :'C"
+
+#Sylvie
+468="Hola mi nombre es Sylvie."
+469="¿Has visto a mi hijito?"
+470="Desde que fuimos transformados hulló de casa."
+471="Se llama Mivi y es un niño muy malcriado."
+
+472="¿Mivi, donde estás?"
+
+473="¿Mivi eres tú?"
+474="¿Dónde estás Mivi?"
+475="¿Mivi?"
+476="Tú no eres Mivi."
+
+477="Mivi, si te encuentro te mato."
+478="Por fin encontré a este chamaco pendejo."
+479="¿Pero por qué yo no he vuelto a la normalidad y el sí?"
+480="Le pegué la golpiza de su vida para que se le quite lo pendejo."
+481="¿Qué? ¿También quieres que te castigue?"
+
+482="A la otra le irá peor."
+
+#Jonathan
+483="Hola mi nombre es Jonathan Jimenez."
+484="¿Qué haces por aquí niña?"
+485="¿No has notado que todo el mundo se ha vuelto algo extraño?"
+486="También han salido unas criaturas extrañas."
+
+487="¿Me llamaste Papá?"
+
+488="Salto, Salto."
+489="Yo no tengo hijos."
+490="Hola Murciegato, ¿cómo te ha ido?"
+491="¡Quieres pasar a tomar una tacita de café?"
+
+492="Salto, Salto."
+493="Salto, Salto."
+
+494="Está bien iré con ustedes."
+
+#Payaso Loco
+495="Bienvenido a mi circo, si me pagas con fragmentos de Colztrok te dejaré entrar."
+
+#NPC 1
+496="Ey hola ¿cómo estás niña nueva? Pareces caída del cielo."
+497="¿Qué? ¿De ahí vienes?"
+498="Mira niña no hay mucho que hacer por aquí, hay 4 rutas que puedes seguir."
+
+499="Por el ESTE está el PARQUE."
+500="Es un lugar bastante tranquilo a mi parecer aunque tienes que realizar muchas acrobacias."
+501="Si me preguntas yo no iría por allá en primer lugar."
+
+502="Por el OESTE está el CEMENTERIO."
+503="Aunque no lo creas es el lugar que más recomiendo ir de visita."
+504="Dicen que en la iglesia guardan la llave para entrar."
+
+505="También está el GRAN EDIFICIO que es un lugar bastante alto y es controlado por unas pequeñas niñas a quienes llaman Las Gemelas."
+507="A ellas les gusta jugar muchas bromas y ponen paredes invisibles por todos lados para confundir a sus empleados."
+507="Los más expertos que ya conozcan las trampas puede que te jueguen bromas, incluso dicen que la llave para entrar al edificio es multiusos."
+
+508="Y por DEBAJO está el SUBTERRANEO, al cual llegas debajo del lugar donde guardas partida."
+509="Es un lugar bastante confuso donde te pierdes muy fácilmente."
+510="Algunos dicen que está hechizado."
+
+511="¿Que cómo se todo eso?"
+512="No lo sé, simplemente soy un NPC."
+
+513="Hola de nuevo niña."
+514="¿Qué te trae de nuevo a estos lugares?"
+515="Ahora deberías seguir tu camino por el SUBTERRANEO."
+
+516="El SUBTERRANEO es custodiado por el Gran Gusano de Eternus."
+517="Aunque el mago loco que vive en la iglesia dice que es un impostor."
+518="Deberías preguntarle a él donde está la llave para entrar al SUBTERRANEO."
+
+519="Te deseo suerte en tu viaje."
+
+520="Muy bien veo que ya regresaste otra vez."
+521="No se cómo le haces para ir y volver tan seguido."
+522="Ahora deberías seguir tu camino por el PARQUE."
+
+523="El PARQUE es custodiado por el Adbornian el Guardián del Bosque."
+524="Ya que el PARQUE está conectado con el bosque el a veces llama criaturas para que lo ayuden."
+525="Para ir con el deberías conseguir primero la llave del PARQUE, la última vez que supe de ella la tenía el Gordo."
+526="Pregúntale a él donde podría estar."
+
+527="Suerte, sigue así."
+
+528="Buen trabajo ya regresaste de nuevo."
+529="Veo que volviste del PARQUE."
+530="Sigue así, ya solo te queda un camino por seguir, ahora deberías seguir tu camino por el gran EDIFICIO que está por la derecha de la ciudad."
+
+531="El EDIFICIO es custodiado por Las Gemelas."
+532="En el EDIFICIO se encuentran varios trabajadores y Las Gemelas juegan mucho con las ilusiones en su decoración."
+533="Para ir con ellas deberías conseguir primero la llave del EDIFICIO, dicen que la tiene un trabajador que renunció."
+534="Él se encuentra por las afueras del PARQUE, habla con La Gorda para que te construya unas plataformas para que alcances al trabajador."
+
+535="Me estoy comenzando a sentir raro. ¿Acaso estoy despertando? o ¿Estoy muriendo?"
+
+536="Vamos sube, acaban de terminar de construir la plataforma. Se encuentra más a la derecha."
+
+536="El EDIFICIO es custodiado por Las Gemelas."
+538="En el EDIFICIO se encuentran varios trabajadores y Las Gemelas juegan mucho con las ilusiones en su decoración."
+
+539="Vamos sube, acaban de terminar de construir la plataforma. Se encuentra más a la derecha."
+
+540="Buen trabajo ya regresaste de nuevo."
+441="Veo que volviste del PARQUE."
+542="Sigue así, ya solo te queda un camino por seguir, ahora deberías seguir tu camino por el gran EDIFICIO que está por la derecha de la ciudad."
+
+543="El EDIFICIO es custodiado por Las Gemelas."
+544="En el EDIFICIO se encuentran varios trabajadores y Las Gemelas juegan mucho con las ilusiones en su decoración."
+545="Veo que ya conseguiste la llave del EDIFICIO."
+546="Ten cuidado con Las Gemelas, son muy poderosas."
+
+547="Me estoy comenzando a sentir raro. ¿Acaso estoy despertando? o ¿Estoy muriendo?"
+
+548="..."
+549="..."
+550="..."
+
+551="..."
+552="..."
+553="..."
+554="¿Mamá?"
+
+555="..."
+
+#NPC 2
+556="No vayas al CEMENTERIO."
+557="Me da bastante miedo, ahí se encuentra una esfera gigante que mata a todo aquél que ve."
+558="El padre de mi esposo se encuentra cerca del CEMENTERIO."
+559="Realiza actividades bastante raras, creo que esa esfera lo dejó loco."
+560="Hay algunos que dicen que tiene capturado un demonio, eso me asusta mucho."
+
+561="Mi hija usa unas orejas muy raras."
+562="Creo que necesita madurar."
+563="Por eso la tengo encerrada en casa."
+564="Tu eres una niña muy madura."
+565="¿Qué? ¿Tienes 20 años? ..."
+
+566="Ten cuidado cuando vayas al CEMENTERIO."
+567="Nos vemos..."
+
+568="Mi hija dice que está enojada con su amiguito."
+569="Pero ya descubrí su secreto."
+570="Creo que ya son novios."
+571="!!Uyyy!! Estoy tan emocionada!!!."
+572="Mi hija se va a casar con todo un galán, una persona muy formal y eso me gusta."
+573="Aunque no me gusta que se vayan a jugar muy lejos, por eso la dejo encerrada."
+574="Que bueno que le hice tirar esa llave del SUBTERRANEO donde se iban a besuquear ella y Juanito."
+
+575="Me da bastante miedo el SUBTERRANEO, no sé cómo Bunny y Juanito se atreven a ir para allá."
+576="Creo que necesita madurar."
+577="Aunque Juanito sea muy mala influencia me agrada lo maduro que es."
+578="Tu eres una niña muy madura."
+579="O más bien adulta ya."
+
+580="Ten cuidado cuando vayas al SUBTERRANEO."
+581="Nos vemos..."
+
+582="El PARQUE es un lugar agradable pero me da miedo ir para allá."
+583="Si estás buscando la llave la tiene el tipo gordo ese."
+584="Creo que le dicen El Gordo."
+585="Y por cierto no me he presentado, mi nombre es Miriam."
+586="Mi esposo se llama Héctor, es el sujeto que te encuentras al centro de la ciudad, le gusta pasear por ahí."
+587="Y mi hija se llama Bunny, le gusta ponerse unas grandes orejas de conejo y además es bien inmadura."
+588="Su novio se llama Juanito, espero y algún día vayan a casarse."
+589="Tienen otra amiguita por ahí que no me agrada para nada, su nombre es Pepper."
+
+590="También está el viejo mago que se encuentra cerca del CEMENTERIO."
+591="Y su asistente Mer, el aprendiz de mago, es nuevo por aquí."
+592="Dicen que tienen un demonio capturado en la iglesia."
+593="Están también Murciegato y El Gordo, quienes tienen una gran rivalidad entre si."
+594="Y la trabajadora del edificio, La Gorda, hay quienes dicen que ella y El Gordo son parientes porque se parecen mucho, pero parece que ni siquiera se conocen entre si."
+
+595="Ten cuidado cuando vayas al PARQUE."
+596="Nos vemos..."
+
+597="El EDIFICIO es el mejor lugar de aquí."
+598="Cuando mi hija crezca me gustaría que sea una empresaria exitosa y trabaje para Las Gemelas."
+599="La llave para entrar se la robó un suicida loco."
+600="Si lo buscas está en la parte más alta de aquí y está apunto de matarse."
+
+601="Para llegar con él, habla con la trabajadora del EDIFICIO."
+602="Ella sabrá cómo llegar."
+
+603="Suerte en el EDIFICIO."
+604="Adios."
+
+605="..."
+606="..."
+607="..."
+608="¡Pepper no golpees a mi hija!."
+
+609="..."
+610="..."
+
+#NPC 3
+611="Hola mi nombre es Mer, un gusto en conocerte."
+612="Yo también soy nuevo aquí, no tengo mucho de haber llegado."
+613="Pero tan pronto como llegué conseguí trabajo de asistente del Mago."
+614="Sé que tiene la cara un poco rara pero sus investigaciones son interesantes."
+
+615="Algún día seré el mejor mago del mundo."
+
+616="Espero y no haya pasado mucho desde que dejé mi hogar en Gon-Mer."
+
+617="Tengo pérdida de memoria y no sé cómo llegué aquí."
+618="Lo último que supe antes de llegar aquí era que estaba siendo perseguido en Gon-Dre."
+
+619="Seguiré con mis investigaciones en el CEMENTERIO."
+620="Espero que el diablito del viejo mago me dé la llave que necesito para entrar."
+
+621="Creo que estoy comenzando a recuperar la memoria."
+622="¿Antes yo era el mago más poderoso el universo?"
+623="Tengo recuerdos bastantes borrosos."
+
+624="Necesito recordar mejor."
+
+625="..."
+626="He matado al viejo mago."
+627="Quisiera olvidar lo que he hecho."
+
+628="¿No quieres morir también?"
+
+#NPC 4
+629="Tengo hambre."
+630="¿Me rascas la panza?"
+631="Existe el mundo Onírico encontrado en la dimensión E8. Aunque la consciencia resida en el mundo primordial o Dimensión E10."
+632="La dimensión onírica es la capa intermedia de consciencia que conecta el mundo Lúcido y el Mundo Primordial."
+
+633="Quiero un changuichito."
+
+634="La dimensión Celestial también llamada Dimensión E9 se encuentra por encima del mundo onírico, algunos hasta dicen que esta dimensión es una dimensión extra del mismo mundo."
+635="Pero lo cierto es que a pesar de sus similitudes esta requiere un estado aún mayor de energía para poder viajar entre ella."
+636="Esta dimensión es la 3ra capa de consciencia."
+637="Al igual que en el mundo onírico en esta dimensión también habitan criaturas, aunque de origen distinto a las de este mundo."
+638="Los seres del Mundo celestial no están conscientes de lo que ocurre en las dimensiones inferiores, ellos ven en 8 Dimensiones."
+639="Algunos pueden llegar a materializarse en dimensiones inferiores."
+
+640="Quiero un changuichito."
+
+641="Sigo teniendo hambre."
+642="Me comeré un tarro de mayonesa."
+643="¿Qué? Cuando uno tiene hambre se come lo que sea."
+
+644="Se me cayó mi changuichito."
+
+645="¿Con que quieres ir al PARQUE eh?"
+646="Primero tienes que responder estas 3 preguntas."
+647="Está bien, lo admito, no tengo la llave se la regalé al murciélago ese con cara de gato."
+
+648="Me preparé otro changuichito."
+
+649="Ohh la llave del PARQUE."
+650="Creí que habías dicho la llave de arranque."
+651="Está bien, está bien, ten la llave."
+652="*Haz obtenido la llave del PARQUE*"
+
+653="Ese Murciegato se robó mi changuichito."
+
+654="Hice sentir mal a Murciegato."
+655="Se retiró del espectáculo de los chistes."
+656="Eso se siente tan bien."
+657="¿Qué? ¿Nunca has tenido un enemigo?"
+
+658="Él se robó mi changuichito y yo me robé sus esperanzas de vivir."
+
+659="..."
+660="..."
+661="Changuichito."
+662="..."
+
+663="..."
+
+#NPC 5
+664="¿Eres una niña?"
+665="¿Cómo te llamas?"
+666="¿Kaley?"
+667="¿Cuántos años tienes?"
+668="¿De dónde vienes?"
+669="¿Por qué estás tan chiquita?"
+670="Por cierto me llamo Juanito."
+
+671="Bunny me dice que soy feo."
+672="Aunque para mi todos nos vemos igual."
+
+673="A veces nos vamos a jugar al SUBTERRANEO."
+674="Pero es demasiado peligroso estar ahí, porque se encuentra uno de los guardianes de Colztrok."
+
+675="Adios niña."
+676="Fue un gusto conocerte."
+
+677="!Hola Kaley! ¿Cómo estás?"
+678="Yo estoy triste."
+679="Bunny se enojó y ya no quiere jugar conmigo."
+680="Hasta me dio su llave del SUBTERRANEO donde nos íbamos a jugar."
+
+681="¿Qué? ¿La quieres?"
+682="Ten toma, te la regalo."
+683="*Haz obtenido la llave del SUBTERRANEO*"
+
+684="Estaré por aquí si quieres jugar conmigo."
+
+685="!Hola Kaley! ¿Cómo estás?"
+686="Ya no estoy triste."
+687="Deberíamos jugar un juego."
+688="¿Que dices?"
+689="Está bien, esperaré a que derrotes a los guardianes."
+
+690="Nos vemos más al rato."
+
+691="Bunny ya no está enojada conmigo."
+692="Ya hasta somos novios."
+693="Pero ahora Pepper es la que está enojada con nosotros."
+
+694="No sé qué le pasa a Pepper."
+695="¿Crees que yo le guste?"
+
+696="De igual manera solo tengo ojos para Bunny."
+697="Es el amor de mi vida."
+
+698="Bunny es el amor de mi vida."
+699="<3"
+
+700="Pepper está loca, me tenía encerrado y casi me mata."
+701="Pero da igual ya que creo que todos se volvieron locos."
+702="Incluso no encuentro a mi amada Bunny."
+
+703="¿Por qué todos se comportan tan raro?"
+704="¿Dónde está Bunny?"
+
+705="¿Dónde está Bunny?"
+
+#NPC 6
+706="!Que yo no tengo la llave del CEMENTERIO!, !La tiene el diablito¡"
+707="Oh espera... Creí que eras mi asistente Mer, de seguro eres nueva aquí."
+708="Este es el mundo onírico del gran Colztrok."
+709="Todos aquellos con la consciencia unificada se encuentran aquí."
+710="Gran gloria a Colztrok."
+711="Muerte a Kétradim."
+
+712="Si Colztrok muere en el mundo onírico estamos perdidos."
+
+713="Tu... No tienes la consciencia unificada con el gran Colztrok."
+714="¿Cómo te atreves a venir a mi después de haber cometido semejante blasfemia?"
+715="¿Enserio estás...?"
+716="El Gran Colztrok y tu...."
+717="¿Sabes lo que eso significa?"
+
+718="¿Qué? ¿Estás buscando una llave?"
+719="¿Para el SUBTERRANEO?"
+
+720="!Jamás te la entregaré!."
+721="Le diré a Bunny la hija de Miriam que no te de la suya."
+
+#NPC 7
+722="Las gemelas se encuentran jugando más arriba."
+723="Vamos pasa, te están esperando."
+
+724="Tranquila no muerden."
+
+725="Vamos pasa, te están esperando."
+
+726="Las gemelas se encuentran jugando más arriba."
+727="Vamos pasa, te están esperando."
+
+728="Tranquila no muerden."
+
+729="Vamos pasa, te están esperando."
+
+730="Las gemelas se encuentran jugando más arriba."
+731="Vamos pasa, te están esperando."
+
+732="Tranquila no muerden."
+
+733="Vamos pasa, te están esperando."
+
+734="¿Estás buscando la llave del EDIFICIO para ir a jugar con Las Gemelas?"
+735="Se las robó un trabajador loco de aquí."
+736="Se encuentra en el lugar más alto a un lado del PARQUE."
+737="Hablaré a los trabajadores para que construyan unas plataformas para llegar hasta allá."
+738="*construyendo*"
+739="*construyendo*"
+740="*construyendo*"
+741="..."
+742="Listo."
+743="*Plataformas construidas*"
+
+744="Las plataformas se encuentran por la derecha de la ciudad."
+745="Las Gemelas te estarán esperando."
+
+746="Vamos pasa, Las Gemelas te están esperando."
+
+747="Tranquila no muerden."
+
+748="Vamos pasa, te están esperando."
+
+749="Las gemelas se encuentran jugando más arriba."
+750="Vamos pasa, te están esperando."
+
+751="Tranquila no muerden."
+
+752="Vamos pasa, te están esperando."
+
+753="¿Las gemelas nunca existieron?"
+754="Se supone que ellas te matarían a ti."
+
+755="..."
+
+756="..."
+
+#NPC 8
+757="Hola niña."
+758="De seguro todavía no alcanzas el timbre."
+759="¿Tu mami no te deja salir a jugar?"
+760="Soy Bunny, la niña más bonita de todas, y soy alta no como tú."
+761="N i ñ a  p e q u e ñ i t a."
+
+762="Juanito es demasiado feo."
+763="Pero él y yo somos amigos."
+
+764="Soy la más bonita de aquí."
+
+765="Hola niña."
+766="Ya me contó Juanito que te conoció."
+767="Me caes mal."
+768="Me enojé con él por eso."
+769="Dice que le agradas y eso me pone furiosa."
+
+770="Yo no tengo ninguna llave."
+771="Se la di a Juanito en un ataque de coraje."
+
+772="Hola niña."
+773="¿Que buscas que cosa?"
+774="¿Buscas una llave?"
+775="Se la regalé a Juanito."
+
+776="No estoy enojada con él."
+777="Es que me gusta."
+
+778="Hola Kaley."
+779="Estoy tan feliz."
+780="Por fin Juanito y yo somos novios."
+781="Aléjate de él."
+
+782="Aléjate de Juanito."
+783="Es mío."
+
+784="Hola..."
+785="No encuentro a Juanito."
+786="Espero y Pepper no le haya hecho nada."
+787="Últimamente se ha estado comportando bastante rara. Ella está algo loca."
+
+788="Iré a buscarlo."
+789="¿Juanito? ¿Dónde estás?"
+
+#NPC 9
+790="Ohhh ya te has enfrentado a Colztrok en el pasado..."
+791="¿Mi nombre?"
+792="Es Zenómeri, soy hijo de Iegvó y no soy ningún diablito. La vida dentro del sueño de Colztrok es muy horrible."
+793="Tengo la llave del Cementerio, la necesitarás más adelante."
+794="*Haz obtenido la Llave del CEMENTERIO.*"
+
+795="La única forma de salir de aquí es despertando."
+796="Si, estás en un sueño, pero eso no le quita el hecho de que sea real."
+
+797="Colztrok está a punto de morir."
+
+798="Al estar aquí dentro estás sujeta a las mismas leyes de supervivencia de las dimensiones inferiores."
+799="Si Colztrok te asimila te vuelves completamente parte de él, o si te desasimila estando aquí dentro vete despidiendo de tu consciencia."
+
+800="Para derrotar a Colztrok necesitas derrotarlo en el mundo onírico."
+801="Yo pienso escapar de aquí, no me enfrentaría a Colztrok ni en su propio sueño, aunque sea el ser más débil de la existencia onírica."
+802="Así que suerte en tu pelea."
+
+803="Ten cuidado cuando te enfrentes a criaturas desconocidas."
+804="Suerte en tu pelea."
+805="Nos vemos."
+
+806="Para derrotar a Colztrok necesitas derrotarlo en el mundo onírico."
+807="Yo pienso escapar de aquí, no me enfrentaría a Colztrok ni en su propio sueño, aunque sea el ser más débil de la existencia onírica."
+808="Así que suerte en tu pelea."
+809="Nos vemos."
+
+810="Sólo trato de salir de aquí tanto como tú."
+811="Pero lo único que puedo hacer es aconsejar, soy demasiado débil en este mundo."
+
+812="Si, mi cola es real."
+813="Deja de mirarla."
+814="Mejor continúa derrotando a los Guardianes."
+
+815="No, no se volar."
+816="Tampoco saco rayos laser de los ojos."
+
+817="Ve a por el Guardián del SUBTERRANEO."
+818="Nos vemos."
+
+819="No, no soy un diablito."
+820="Soy descendiente directo de la estirpe de Iegvó."
+821="Un Iegvosiano de sangre pura."
+
+822="El imperio de Iegvó entró en decadencia."
+823="Las tierras de Niria fueron las últimas de su legado."
+
+824="Que no concedo deseos."
+825="Ese es el viejo mago, pero el aprendiz de mago lo mató."
+826="Espero que ese Mer no sea el mismo del que he escuchado hablar."
+827="El Mer que yo conozco es el mago más poderoso de todos los tiempos."
+828="Incluso es buscado por todo el Imperio Iegvosiano."
+
+829="Sigue así."
+830="............."
+
+831="..."
+832="¿Kétradim?"
+833="..."
+834="..."
+835="Los Drimtets buscan venganza."
+
+836="..."
+837="..."
+
+#NPC 10
+838="Juanito y Bunny nunca me invitan a jugar con ellos."
+839="Para mí que se gustan."
+
+840="¿Quieres jugar un juego?"
+841="En el BOSQUE se encuentra un guardián, el mago parece bastante interesado en él."
+842="Dice que si le traes su cabeza te concederá 3 deseos."
+
+843="Recuerda, 3 deseos..."
+844="¿Qué esperas para ir al bosque?"
+
+845="Juanito y Bunny están peleados."
+846="Esta es mi oportunidad con Bunny."
+
+847="Me gusta Bunny, es demasiado adorable."
+848="Pero ella y Juanito se gustan y eso me molesta."
+
+849="Necesito planear como gustarle a Bunny."
+850="¿Oye tú no tienes novia?"
+
+851="Estúpidos Juanito y Bunny."
+852="Como los odio."
+
+853="Primero no me invitan a jugar y después se hacen novios."
+854="¿Qué me estás mirando?"
+
+855="Bunny tiene que ser solo mía."
+856="No te acerques a Bunny."
+
+857="Por fin Bunny y yo podremos ser novias."
+858="Ya arreglé todo."
+
+859="Juanito ya no me causará problemas."
+860="Me prepararé para mi cita con Bunny."
+
+861="Quiero tener muchos hijos con Bunny."
+862="No te acerques a Bunny."
+
+863="No importa que yo también sea mujer."
+864="Eso nunca me detendrá."
+
+865="..."
+866="Estúpida Bunny."
+
+867="..."
+868="Me rechazó."
+
+869="..."
+870="Y yo... Me alegro de lo que hice"
+
+871="..."
+872="..."
+
+#NPC 11
+873="Hola Kaley, ¿Ya me viste? ¡Soy yo! Murciegato."
+874="Ser parte de Colztrok se siente estupendo."
+875="Espero y no hayas venido a sacarme de aquí."
+876="Es súper divertido tener la consciencia unificada."
+
+877="Por favor no vayas a destruir a Colztrok."
+878="Se siente divertido."
+
+879="Hola Kaley."
+880="¿Cómo te ha ido?"
+881="No puedo acompañarte aún."
+882="Tengo trabajo importante que hacer."
+
+883="¿De qué trabajo?"
+884="Ahora soy comediante."
+
+885="Nos vemos más al rato, tengo unos buenos chistes que preparar."
+886="Era broma, si quieres quédate todo el rato que quieras."
+
+887="¿No entendiste?"
+888="Tengo que mejorar mi repertorio."
+
+889="¿Qué?"
+890="¿Apoco no soy muy cómico?"
+
+891="¿Conque estás buscando la llave del PARQUE eh?"
+892="Me la dio el Gordo."
+893="Pero yo se la regresé."
+894="¿No quieres escuchar un chiste?"
+
+895="¿Por qué las focas del circo miran siempre hacia arriba?"
+896="Porque es donde están los focos."
+
+897="¿Sabes cómo se queda un mago después de comer?"
+898="Magordito."
+
+899="Hola, ¿está Agustín?"
+900="No, estoy incomodín."
+
+901="Había una vez un perro llamado chiste."
+902="Un día lo atropelló un carro y se acabó el chiste."
+
+903="Buenos días. Busco trabajo."
+904="¿Le interesa de jardinero?"
+905="¿Dejar dinero? ¡Si lo que busco es trabajo!."
+
+906="Hola, ¿tienen libros para el cansancio?"
+907="Sí, pero están agotados."
+
+908="¿Apoco no soy muy cómico?"
+909="Pronto tendré mi propio programa de stand-up."
+
+910="Hola Kaley."
+911="Te extrañé."
+912="Ya no trabajaré de comediante."
+913="Creo que no estoy hecho para esto."
+
+914="Ahora seré bailarín."
+915="¿No quieres verme bailar?"
+
+916="¿Qué?"
+917="¿Ni si quiera parece que estoy bailando?"
+
+918="Déjame acompañarte."
+919="Está bien esperaré a que derrotes al siguiente guardián."
+
+920="¡Kaley, regresaste!."
+921="Te estuve esperando mucho tiempo."
+922="Hasta estuve preparando chistes nuevos."
+
+923="Oye Kaley la gente de aquí se comporta muy raro."
+924="Tengo mucho miedo, déjame estar contigo."
+925="*Murciegato ahora te acompaña*"
+
+#NPC 12
+926="Ya no me gusta mi trabajo en GRAN edificio."
+927="No te recomiendo trabajar ahí."
+
+928="Ten te regalo esto, ya no lo necesito."
+929="*Haz obtenido la llave del EDIFICIO*"
+
+930="No preguntes, solo gózalo."
+
+931="Creo que este es el mejor lugar para hacer esto."
+932="Ya no quiero volver a sufrir nunca más."
+933="Nos vemos."
+
+934="Nos vemos."
+
+#Final
+935="Al final Kaley al lograr asimilar a Colztrok y obtener el control total de sus poderes, adquiere el título de Kaley la Guerrera Onírica y Murciegato el de Murciegato el Fantasma de Niuirth."
+936="Kaley se encuentra con su Padre Jonathan Jimenez, su Tío Deon Ardamgli y una desconocida que se hace llamar Luna, y juntos escapan de las Tierras Sombrías de Niria."
+937="El destino de las Tierras Sombrías es indiferente al destino de la entidad onírica Kobeth-Mo (Kobby) o el la entidad Celestial Balul-Tha (Trapecio)."
+938="***Ya que la historia finalizó se procederá a borrar todo el progreso y se cerrará la partida***"
+
+#Extras
+939=regeneras
+940=aguante/segundo
+941=tiempo de regeneracion
+942=segundos
+943=Dash
+944=Salto x2
+945=Airedash
+946=Natacion
+947=Escudo
+948=Colztrok
+949=Viaje a E8
+950=Gancho Largo
+
+#Dialogo Misión
+1000=Selecciona cualquier objeto que quieras que analice.
+
+#Dialogo Base
+1001=Mira Kaley, es
+
+#Dialogo 1 
+1002=¿Ya viste esas bolas extrañas Kaley?
+1003=Son fragmentos de Colztrok.
+1004=Al parecer reaccionan a ti si te acercas a ellos.
+1005=¿Por qué no intentas recoger algunos?
+
+#Dialogo 2
+1006=Ten cuidado con esas espinas.
+1007=Te pueden causar mucho daño.
+
+#Dialogo 3
+1008=Mira allá hay más fragmentos de Colztrok.
+
+#Dialogo 4
+1009=¿Kaley, ya viste?
+1010=Trata de agarrar ese objeto.
+1011=Creo que es un frasco de regeneración.
+
+#Dialogo 5
+1012=Si se te ha dañado la vida puedes regenerarte cierto porcentaje utilizando un frasco de regeneración.
+1013=Para eso tienes que dejar pulsada la tecla (X) del teclado o el botón (Y) del contról y se te gastará el frasco utilizado.
+1014=Primero recoge el frasco y luego deja presionada la tecla (X) o el botón (Y).
+
+#Dialogo 6
+1015=Parece que por allá arriba hay otro frasco de regeneración.
+1016=Pero está demasiado alto, mejor hay que dejarlo para después.
+
+#Dialogo 7
+1017=¿Lo notaste?
+1018=Tu vida máxima ha aumentado.
+1019=¿Por qué será que los fragmentos de colztrok te puedan aumentar vida?
+1020=Deberías buscar más fragmentos y alguna forma de regenerarte esa nueva vida.
+
+#Dialogo 8
+1021=Mira Kaley, ahí puedes descansar.
+1022=Se te regenerará toda la vida y los frascos de regeneración.
+
+#Dialogo 9
+1023=Parece ser una puerta común.
+1024=Intenta abrirla.
+
+#Dialogo 10
+1025=Ten cuidado, no te vayas a ahogar.
+1026=Aguanta la respiración.
+
+#Dialogo 11
+1027=Parece que la libramos.
+1028=Ahora estamos a salvo.
+
+#Dialogo 12
+1029=Se parece a la puerta de hace rato.
+1030=Pero esta tiene una cerradura, deberíamos buscar la llave.
+
+#Dialogo 13
+1031=Ya encontré la llave.
+1032=Yo la vi primero.
+
+#Dialogo 14
+1033=Parece que tenemos que usar la única llave que teníamos para salir de aquí.
+1034=Pues a buscar otra.
+
+#Dialogo 15
+1035=No tengas miedo Kaley.
+1036=Bueno yo si tengo miedo, pero no tenemos otra salida.
+
+#Dialogo 16
+1037=Aquí estamos seguros.
+1038=Oye, acabo de encontrar otra llave.
+
+#Dialogo 17
+1039=¿Sabes Kaley?, yo conozco este lugar, ya he estado aquí antes.
+1040=Mas adelante está mi tienda, deberíamos ver que hay.
+
+#Dialogo 18
+1041=¿Quién rayos deja un lanza misiles en medio del camino?
+
+#Dialogo 19
+1042=No puede ser!!!
+1043=Se robaron mi tienda :C
+1044=Y los objetos que le vendí a Kobby están en su lugar.
+1045=Digo, los objetos que Kobby me robó >:c
+
+#Dialogo 20
+1046=Con ese objeto te aumentará la velocidad de regeneración de vida.
+
+#Dialogo 21
+1047=Ten cuidado Kaley.
+1048=El poder de Colztrok se está volviendo inestable.
+1049=A la próxima que recibas un gran daño es probable que pierdas los poderes.
+1050=Recuerda recuperar el poder de Colztrok cuando llegues a perderlo.
+
+#Dialogo 22
+1051=Eso es una palanca, intenta pegarle con una espada.
+1052=Oye no te enojes conmigo, mucha gente no lo capta a la primera.
+
+#Dialogo 23
+1053=Eso aguante en su estado más puro.
+1054=Si lo recoges te aumentará la velocidad de regeneración de aguante.
+
+#Dialogo 24
+1055=Bueno, parece ser que ahora si comienza lo interesante.
+1056=A darle átomos.
+
+#Dialogo 25
+1057=¿Has notado estas cosas en el suelo?
+1058=Debería haber alguna forma de romperlas.
+
+#Dialogo 26
+1059=De nuevo estas rocas.
+1060=No olvides estos lugares.
+
+#Dialogo 27
+1061=Mira Kaley!!.
+1062=Nuestro desayuno.
+
+#Dialogo 28
+1063=Kaley...
+1064=Siento que algo malo va a pasar.
+
+#Dialogo 29
+1065=A mí no me preguntes, yo tampoco entiendo que está pasando.
+1066=¿Ahora cómo podremos salir de aquí?
+
+#Dialogo 30
+1067=Interesante.
+
+#Dialogo 31
+1068=¿A dónde nos llevará esa puerta?
+
+#Dialogo 32
+1069=Trata de seguir la flecha.
+
+#Dialogo 33
+1070=En el mar, la vida es más sabrosa.
+1071=En el mar te quiero mucho más.
+1072=Con el sol, la luna y las estrellas.
+1073=En el mar todo es felicidad.
+
+#Dialogo 34
+1074=Un templo perdido debajo del mar.
+
+#Dialogo 35
+1075=Este templo ahora parece salón de fiestas.
+
+#Dialogo 36
+1076=Estas son las puertas hacia Kentrania.
+1077=Veo que ya no estamos muy lejos de Midtra.
+
+#Dialogo 37
+1078=Kaley ten cuidado.
+1079=Necesitas aprender a usar el DASH y algún ESCUDO que te proteja.
+
+#Dialogo 38
+1080=Oye Kaley, tengo hambre.
+1081=Hubiéramos cocinado alguno de los cerditos que nos encontramos.
+
+#Dialogo 39
+1082=Pobre mivi, de seguro está muerto.
+1083=!!¿Qué hemos hecho?!!.
+
+#Dialogo 40
+1084=Mira más arriba.
+1085=Necesitas algo para dispararle a la palanca.
+
+#Dialogo 41
+1086=Parece que aquí ya no nos puede alcanzar.
+1087=¿Ahora por dónde salimos?
+1088=¿Se te ocurre alguna manera de derrotar a ese tipo de entes oscuros?
+
+#Dialogo 42
+1089=Santas cachuchas Kaley.
+1090=Si perdemos aquí tendremos que pasar todo de nuevo.
+1091=Mantén la calma Kaley y sigue adelante.
+
+#Dialogo 43
+1092=Este lugar me pone los bigotes de punta.
+1093=Segura que quieres venir por aquí?
+1094=El payaso me daba menos miedo.
+
+#Dialogo 44
+1095=Este lugar me aterra.
+1096=Es demasiado difícil.
+1097=Si hubiéramos cocinado a los cerditos no estuviéramos batallando tanto.
+
+#Dialogo 45
+1098=¿Alguna explicación de cómo llegamos al espacio usando el gancho?
+1099=A mí ni me mires, yo te seguí volando hasta acá ya que siempre me dejas atrás.
+1100=Pero descuida, con mi magia de Murciegato te ayudaré a que puedas respirar aquí.
+
+#Dialogo 46
+1101=Es la famosa Catedral de Miknokcrin.
+1102=Me pregunto cómo llegamos hasta acá si venimos desde Niria?
+1103=Bueno no importa, pero deberías explorar antes de entrar a la Catedral.
+
+#Dialogo 47
+1104=Kaley...
+1105=Me dan miedo las ferias.
+1106=Tan solo espero que no nos encontremos con el payaso.
+
+#Dialogo 48
+1107=¿Viste?
+1108=Que miedo, el sujeto desapareció.
+1109=Te digo que los payasos son malvados.
+
+#Dialogo 49
+1110=¿Kaley?
+1111=Esto es una trampa.
+
+#Dialogo 50
+1112=.........
+1113=Ni se te ocurra presionar el botón rojo.
+
+#Dialogo 51
+1114=Por fin, la salida del laberinto.
+1115=No te olvides de recoger el objeto.
+
+#Dialogo 52
+1116="¿Te diste cuenta Kaley?"
+1117="El nombre de la tienda..."
+1118="Es mi tiendita :c yo soy el dueño."
+1119="La cerré temporalmente, ¿por qué seguirá abierta?"
+
+#Dialogo 53
+1120="Ese es un frasco de regeneración de aguante."
+1121="Si lo recoges te aumentará la cantidad máxima de aguante."
+
+#Dialogo Misiones
+1500=Tenemos que bajar.
+1501=Tenemos que salir de la ciudad.
+1502=Vamos a derrotar al enemigo de la zona.
+1503=Creo que nos hemos perdido D:
+1504=A nadar :D.
+1505=Deberías conseguir fragmentos de Colztrok para comprar los items de la tienda.
+1506=Hay que derrotar al payaso.
+1507=Tenemos que viajar hacia Celestia.
+1508=Tenemos que viajar hacia Miknokcrin.
+1509=Tenemos que buscar la forma de salir del planeta Niria.
+
+#ACCIONES
+2000="Saliendo... "
+2001="Viajando al Mundo Onírico... "
+
+[english]
+#NPCs Animales
+0=a Kaley
+1=a bunny
+2=a cat
+3=a pig
+4=a squirrel
+5=a dog
+6=a mouse
+7=a chicken
+8=a chick
+9=a monkey
+10=a bear
+11=a fish
+12=a duck
+
+#NPCs
+13=the credits
+14=Kobby
+15=John Sahn II
+16=Mer the Wizard
+17=Kaley Jimenez
+18=Junny the Cubic Bunny
+19=Muppy the Cat
+20=Fishy
+21=George Mousy
+22=Muriel the Squirrel
+23=Rikchi the Bear
+24=Morak the Monkey
+25=Perrurax the Dog
+26=Piggy the Pacon
+27=a nightmare
+28=an test enemy
+29=Lagandra
+30=Juana
+31=Luna
+32=Bob
+33=Gummy
+34=Trapeze the Cheater
+35=Trapeze the Glorious
+36=Trapeze the Traveler
+37=Piggy
+38=Mivi
+39=Sylvie
+40=your Dad
+41=Crowney the Crazy Clown
+42=Héctor
+43=Miriam
+44=Mer the Wizard
+45=el Gordo
+46=Juanito
+47=Lucas the Ancient Wizard
+48=La Gorda
+49=Bunny
+50=Zenómeri
+51=Pepper
+52=Murciecat
+53=Rigoberto
+
+#Objetos
+55 = one joystick
+56 = one lever
+57 = a second joystick
+58 = wall spikes
+59 = a Magic Ball
+60 = a Shard of Colztrok
+61=????????????????????????
+62 = a Key
+63 = a Flask of Regeneration
+64 = a Flask of Stamina
+65 = pure stamina
+66 = an increased health regeneration speed
+67 = a place to store
+68 = an important object
+
+#Enemigos
+69 = one element of damage
+70 = an enemy
+71 = one attack
+72 = one non-submergence element
+73 = one item total damage
+74 = a projectile
+75 = a deadly peak
+76 = an Abomination
+77 = a Dark Piranha
+78 = an Angel Fragment
+79 = a Nightmare Bird
+80 = a Minion of Kobeth-Mo
+81 = Colztrok
+82 = a Nightmare Shadow
+83 = a Dark Ghost
+84 = a saw
+85 = a block of lava
+86 = giant blades
+87 = a giant ax
+88 = a dangerous ball
+89 = a giant ball
+90 = a place to store?
+91 = Nawniat the dream warrior
+92 = Shadow of Nawniat
+93 = Great Worm of Eternus
+94 = The body of the great eternus worm
+95 = Usurper of Eternus
+96 = Bendejian the Dark Beast
+97 = Lamperial the Fish of the Depths
+98 = Angel the Last Nightmare of Kobeth-Mo
+
+#Dialogos Animales
+100=Jump Jump.
+101=Meow Meow.
+102=Pig Pig.
+103=Iyyeishow.
+104=Ig Igewshon.
+105=Woof Woow.
+106=Grrrrrr...
+107=Mapa.
+108=Jesús Ricardo.
+109=Cheep Cheep.
+110=Uh Uh Ahhh.
+111=Platano.
+112=Bear Beer.
+113=Glu, Glu, Glu.
+114=Cuack Cuack.
+
+#Dialogos NPCs
+
+#Intro
+115 = Warrior Kaley and her faithful Murciecat companion venture into the decaying lands of Niria to defeat the Lord of Nightmares.
+116 = Kobeth-Mo, has materialized in the real world and has dominated the entire system planetary of Niria turning it into the now called Shadowlands.
+117 = Kaley and Murciecat have to defeat the Lord of Nightmares if they want to survive and thus return everything to normal.
+
+#Kobby
+118 = Thank you very much for saving me.
+119 = I was trapped in my own dream world.
+120 = The world of Kobeth-Mo.
+
+121 = Angel took the opportunity to destroy me by finding my identity in the real world.
+122 = But I think I'm some kind of Dream Entity or something like that, I'm not very aware of that, you know?
+123 = When I dream I am the cause of many nightmares, for me it is a horror to have discovered that
+
+124 = What is your name?
+125 = Kaley? ...
+126 = Kaley and Murciecat, would you help me end this suffering?
+
+127 = The dream turns into an endless nightmare.
+128 = Return to the real world, before being assimilated by my counterpart in the dream world.
+129 = If they finish with me they will finish with Kobeth-Mo, the Lord of Nightmares.
+
+130 = Goodbye Kaley.
+131 = Goodbye Murciecat.
+
+#Pontifice Cerdi
+132 = Oink Oink.
+
+#Mer
+133 = How did I get here?
+
+#Kaley Jimenez
+134 = ... ... ...
+
+#Junny 1
+135 = Jump, Jump.
+
+#Junny 2
+136 = Thank you very much for rescuing me.
+137 = My name is Junny.
+138 = That horrible creature had me trapped all this time.
+139 = What? Can't you go out?
+
+140 = Well, jump like a rabbit.
+
+141 = Jump, Jump.
+142 = Can't you jump?
+143 = Okay, I'll teach you to jump.
+144 = *** You have learned the double jump ***
+
+145 = Jump, Jump.
+146 = Jump, Jump.
+
+147 = See you in Midtra City.
+
+#Muppy 1
+148 = Meemeemeemee Mimi.
+149 = Ñañañaña.
+
+#Muppy 2
+150 = Mimimimi Mimi.
+151 = Ñañañaña.
+152 = I'm hungry.
+153 = I wanted to eat this fish, but then he wanted to eat me.
+
+154 = Now I need to get out of here.
+155 = Do you know how to get out?
+
+156 = Do you see those thorns on the right? You can dodge them if you go very fast.
+157 = That's the way out. I will teach you how to do it.
+158 = *** You have learned to use the Dash ***
+159 = *** Press the SHIFT key or (RB) button to use it when you are on the ground ***
+
+160 = Pprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.
+
+161 = I will go hunting mice in Midtra.
+
+#Weight 1
+162 = Glu, Glu, Glu.
+
+#Weight 2
+163 = Glu, Glu, Glu.
+164 = Glu, Glu, Glu ?
+165 = Excuse me, I thought you were a fish.
+166 = This is my house, be welcome.
+
+167 = What? Can't you swim?
+
+168 = If you want to swim in the sea, you have to learn.
+169 = I will teach you to swim.
+170 = Glu, Glu, Glu, Glu, Glu, Glu, Glu, Glu.
+171 = *** You have learned Swimming in Water ***
+
+172 = I will visit the city of Midtra.
+173 = Are you also going to visit her?
+
+174 = See you there then.
+
+#Ratoncito Jorge 1
+175 = Look Kaley, I've already got home.
+176 = Muppy is my waifu but she prefers to play with other mice.
+177 = What can i do to get your attention?
+
+#Ratoncito Jorge 2
+178 = Well, I've been trying to get out of here for a long time and I couldn't.
+179 = Thank you very much for saving me, my name is George Mousy.
+180 = I will teach you an ancient technique as a present.
+181 = It is the dream shield, a weapon taken from the very world of dreams.
+182 = *** You have learned the ancient technique of the dream shield ***
+
+183 = What? Don't you know how to use it? Just press the right mouse click.
+184 = Not me, the other mouse.
+
+185 = The dream shield channels a small fraction of energy from dimension E8, from your own dreams.
+186 = Once the dream energy has been channeled, you can mate to realize it in the lower dimensions.
+
+187 = It helps you protect yourself from all kinds of enemies, but it works especially with nightmares.
+188 = This is also known as Dream Magic, but it is not the only type of magic that exists.
+
+189 = Cosmic Magic of the E1, E2 and E2 dimensions in the X, Y, Z planes. It is the most common magic that exists.
+190 = Hypermagic W, coming from dimension E4, is the Magic that some cosmic entities such as Colztrok or Kétradim use.
+191 = Magic of the dimensional Triangle, gets its energy from the dimensions E5, E6 and E7, the fundamental forces, quantum mechanics.
+192 = Dream Magic, one of the most powerful magic that exists, since it is above all other inferior magic.
+193 = The potency of this magic is due to the fact that the majority of the consciousness of all beings resides mainly in the Dream Plane, or Dimension E8.
+194 = For dimensions higher than E8 it is beyond my reach, it is impossible for me to master them.
+
+195 = But if you want, I'll tell you about them.
+196 = The E9 dimension. The dimension that is above the dream world, some even say that this dimension is an extra dimension of the same world.
+197 = But the truth is that despite its similarities it requires an even greater state of energy to travel between it.
+198 = The Magic of the Primal world in E10, is the most powerful magic of all. It is where the consciousness of Uknioh resides and the other consciousness of the Universe is derived.
+
+199 = Map.
+200 = I'll keep telling you about this later.
+
+#Shoe 1
+201 = Oie nose, do you want drugs?
+
+#Shoe 2
+202 = Piap Piap.
+203 = What are you doing here?
+204 = I came for nuts.
+205 = Do you want one?
+
+206 = Ohh I see, some nightmares are chasing you.
+207 = And you don't know why.
+
+208 = Well, can I show you something cool so you can escape more easily?
+209 = With this you can jump and fast forward at the same time.
+210 = *** You have learned to use the Dash in the air ***
+211 = *** Press the SHIFT key or (RB) button to use it when in the air ***
+
+212 = But be careful, with this you cannot dodge the most deadly nightmares, those that banish you instantly.
+
+213 = See you later.
+214 = yig yig.
+
+#Rirkuz 1
+215 = I am not Zamibear.
+
+#Rirkuz 2
+216 = Bear Bear.
+217 = What are you doing here?
+218 = I came for honey.
+219 = Do you want?
+
+220 = Ohh I see, some nightmares are chasing you.
+221 = And you don't know why.
+
+222 = Well, can I show you something cool so you can come back more easily?
+223 = With this you can return to the city of Midtra.
+224 = *** You have obtained the ability to return to Midtra ***
+225 = *** Hold (Q) Key or (START) button to return. There will also be teleporters for you to return to the places you have already visited ***
+
+226 = But be careful, with this you cannot return instantly.
+
+227 = See you later.
+228 = Bear Bear.
+
+#Morag 1
+229 = Uh Uh aaah.
+
+#Morag 2
+230 = Uh Uh Ahhh.
+231 = What are you doing here?
+232 = I came for platanos.
+233 = Do you want one?
+
+234 = Ohh I see, some nightmares are chasing you.
+235 = And you don't know why.
+
+236 = Well, can I show you something cool so you can escape more easily?
+237 = With this you can jump and fast forward at the same time.
+238 = *** You have learned to use the map to see treasures ***
+239 = *** Treasures will be indicated on the map ***
+
+240 = Good luck.
+
+241 = See you later.
+242 = Platano.
+
+#Dogurax
+243 = "You regenerate "
+244 = " hit points per bottle. If you bring me "
+245 = " regeneration bottles I will give you an upgrade that allows you to regenerate twice as much, that is "
+246 = " hit points per bottle."
+
+247 = I'll buy more from you later, that's enough for now.
+
+248 = So you accept them?
+249 = >>>> Transaction completed <<<<
+
+250 = You don't have enough fragments.
+
+#Perdy
+251 = Do not steal the objects that I found.
+
+#Nightmare
+252 = Master Khobeth-Mo, is that you? Thank you for saving me.
+253 = That nightmare had me trapped here.
+254 = Several of my brothers have escaped from the dream world.
+255 = But they have come for you.
+
+256 = Master, you don't know what I'm talking about?
+
+257 = I think he is in a very deep state of lucidity, and that is why he is in that state.
+258 = I think I should help you, if you have some kind of Dream Magic I will come to your service.
+259 = But it will only be for a few instants since apparently you are too lucid and your Dream power is somewhat weak.
+260 = *** You have learned the Counterattack with the Dream Shield ***
+
+261 = When you fall asleep love, I will help you at all times.
+262 = My lord and master of nightmares, Khobeth-Mo.
+
+263 = You can practice counterattack with this test dummy.
+264 = The counterattack will take place just at the moment in which the shield is taken out and hits an enemy or attack.
+265 = It does not work with all enemies, such as viruses, piranhas, spikes or saws as they do not attack you, it is you who bumps into them.
+266 = Also does not work on giants and nightmare birds until the moment they attack you.
+267 = Even if the target has not carried out the attack, I will send every living being with whom I meet into the world.
+268 = So I can damage piranhas or viruses if you counter with another nightmare.
+
+#Enemy Test
+269 = Kill me with the Dream Shield.
+
+#Lizandra
+270 = Hello, my name is Lizandra.
+271 = I live in Midtra.
+272 = But I'm looking for my husband.
+273 = He went to hunt the dark beast that haunts our lands.
+
+274 = I've looked for it everywhere but can't find it.
+275 = Would you help me find it?
+
+276 = What if it is the dark beast?
+277 = No one knows its nature.
+278 = But since that Kobby arrived ...
+
+279 = Since Kobby's arrival.
+280 = ...
+
+281 = I have had too many nightmares.
+
+282 = Kobeth-Mo ... They always say that name.
+283 = First the arrival of Colztrok, but now this happens.
+284 = Wow I see you have a lot of Colztrok fragments with you.
+
+285 = The Colztrok fragments are our new currency, after the apocalypse that occurred throughout the entire Niria system.
+286 = I'm sure it's tied to that little pink ball.
+
+287 = We were better off with the Iegvosian Empire.
+288 = Glory to Iegvo.
+
+#Sharon
+289 = Mmmm ....
+290 = Mmmmmmm.
+291 = MM.. Oh hello girl.
+292 = My name is Sharon and I am an adventurer.
+
+293 = I try to go through the dragon gate to go to Kentrania but I don't know how to cross that gate.
+
+294 = I also tried to go on my way to Celestia the highlands, but I need a grappling hook to be able to climb.
+295 = They say that the circus clown has a hook, maybe he should go for it.
+296 = The entrance is on the ground floor following the path of the fair.
+297 = Did you know that this fair was built on an asteroid that fell from space?
+
+298 = In the meantime I will go on my way to Midtra.
+299 = If you go there, don't forget to visit Murciecat's shop, they have many curiosities there.
+
+300 = Mmmm ....
+301 = How can I steal the hook from the clown?
+
+302 = Mmmm ....
+303 = Mmmmmmm.
+304 = MM.. Oh hello again girl.
+305 = I'm lost, I don't know how to get out of here.
+
+306 = You neither?
+
+307 = I've been around this forest quite a bit.
+308 = But I can't get out of here.
+309 = Exit must be somewhere.
+310 = There is a hut ahead, maybe it is a clue to get out of here.
+
+311 = To enter the cabin you have to get 3 keys.
+312 = But where will they be?
+
+313 = Mmmm ....
+314 = Where will the keys be?
+
+315 = Oh my, I see that you finally came out of the forest and we both reached Midtra safely.
+316 = What have you already been through here?
+317 = So I took the wrong path.
+318 = But I got here safely anyway.
+    
+319 = Have you already passed by Murciecat's store?
+320 = I bought a sword that they had to spare there.
+321 = I'm not so helpless anymore huh.
+
+322 = The next time I see you, we could have a little pain.
+323 = What do you think?
+    
+324 = I also bought the last hook Mivi had, with this I will be able to make my way to the circus.
+325 = And it could even go to Celestia, but not to Kentrania, it is very dangerous to go there and there is nothing interesting.
+    
+326 = If we meet again I will be at the Miknockrin Circus.
+327 = Or maybe it will be in Celestia ?
+
+328 = Thank you very much for saving me.
+329 = I don't know how I ended up trapped here.
+330 = I wanted to pick up the hook but the door closed and trapped me.
+331 = What would I have done without your help?
+    
+332 = Time to leave on the way to Celestia.
+333 = What am I going to there?
+334 = It is a secret.
+
+335 = Maybe I couldn't steal the hook from the clown but I still have the one that Mivi sold me.
+336 = What do you think?
+    
+337 = I also bought the last hook Mivi had, with this I can make my way to the circus.
+338 = And it could even go to Celestia, but not to Kentrania, it is very dangerous to go there and there is nothing interesting.
+    
+339 = If we meet again I will be at the Miknockrin Circus.
+340 = Or maybe it will be in Celestia?
+
+#Sharon Caught
+341 = Mmmm ....
+342 = MMmmmm.
+
+343 = Ohh hi girl.
+344 = I don't know how I got trapped in this place.
+
+345 = Can you help me get out of here?
+
+#Sharon Final
+346 = I don't know how to go up to Miknokcrin.
+347 = A single hook will be enough to get there.
+348 = Something longer is needed.
+349 = But what the hell am I thinking?
+
+350 = A simple hook to get to a fucking asteroid belt?
+351 = I'm already fed up with this, you know?
+
+352 = I am useless, I cannot solve problems on my own.
+353 = You know what? I give up, I give you my hook.
+354 = Maybe if you put it together with yours you can go further.
+355 = *** The length of your hook has increased immensely ***
+
+356 = I won't be able to save my friend Kobby at this rate.
+
+357 = Fuck everything.
+358 = I will try to go through the dream world.
+
+#Moon
+359 = Hey, I know you.
+360 = Your name is Kaley and that is your partner Murciecat.
+361 = Your Uncle Deon and I have come looking for you.
+362 = Your mother Annie is waiting for you.
+
+363 = Come with us.
+364 = We will help you get out of here.
+365 = Now we just need to find your father.
+366 = Don't get in too much trouble.
+
+367 = Come see me when you have found your father.
+368 = I will be waiting for you in the Central Zone of Encordia.
+369 = Just outside the dragon gate.
+
+370 = I already found your father.
+371 = He is waiting for us on the ship together with Deon.
+372 = Only you are missing.
+373 = Do you still have unfinished business in Niria?
+
+374 = Ok, we'll wait for you.
+375 = I don't know what other things you still have to do.
+376 = But here we will be.
+377 = Although you must hurry, I don't know how unstable Kobeth-Mo is.
+
+378 = Okay. I'll wait for you to finish your unfinished business.
+
+#Rogelio
+
+379 = My brother is a circus worker.
+380 = The evil clown forces you to work with him.
+381 = I want to go rescue him from that horrible job but I can't get past the entrance.
+382 = It is completely closed.
+
+383 = Any idea how I could get through it?
+
+384 = Don't know where to go?
+385 = Look, further south is the Midtra City.
+386 = It is the closest location I can give you.
+387 = Are you asking me about the circus? Can't you see that even I can't pass?
+
+388 = A key maybe?
+389 = Or some special object?
+
+390 = See you later girl.
+
+391 = Thank you very much for opening the entry.
+392 = Now I'll be on my way to the circus.
+393 = I hope I can arrive in time to save my brother.
+
+394 = If you meet him first I try to get him to quit that job.
+395 = If I can't find it, I wouldn't know what to do.
+
+396 = See you later girl.
+
+397 = I can't find my brother anywhere.
+398 = What? You say you have seen it?
+399 = Did he just disappear without saying anything?
+
+400 = Oh I see ...
+401 = ...
+
+402 = We will not see each other later girl.
+
+403 = Hey girl, can you help me?
+
+#Winny
+404 = Hello my name is Winny.
+405 = I still don't see the light in you.
+406 = You don't have enough knowledge.
+407 = You need more rare coins.
+
+408 = "The rare coins you have are: "
+
+409 = I'll explain later, come see me when you get more rare coins.
+
+410 = You already have 20 rare coins.
+411 = Your light begins to shine brighter.
+412 = You already have enough knowledge.
+413 = Only you know what to do with it.
+
+414 = You will soon find out what you have to do.
+415 = But do you want an explanation?
+
+416 = Kill Trapeze and Finish assimilating Colztrok once and for all.
+417 = Trapeze is a very powerful entity from dimension E9, the Celestial world.
+418 = Trapeze also known by his real name Balul-Tha.
+419 = He is the one who prevented you from obtaining the power of Colztrok. But by murdering his trapeze avatar you will get some time.
+
+420 = Kill Trapeze.
+421 = You don't have to defeat Angel or Kobeth-Mo, Trapeze is the one who controls everything.
+
+#Trapeze
+422 = Hello, my name is Trapeze.
+423 = You're here because you're a cheater right?
+424 = You used an external program to access this zone.
+425 = This is the true ending of the game. Either way, I will delete all game progress for you.
+426 = Die.
+
+427 = Hello, my name is Trapeze.
+428 = You are here because you already got all the rare coins right?
+429 = Congratulations, you have unlocked hardcore mode.
+430 = I'll take you back in time, right to the instant you started your adventure in the Shadowlands.
+431 = Goodbye.
+
+432 = Hello Kaley, do you remember me?
+433 = You are here because again you already got all the rare coins, right?
+434 = If you keep going like this you will get stuck in time loops.
+435 = In the same way, I will take you back in time, right to the instant you started your adventure in the Shadowlands.
+436 = See you, don't talk to me again if you don't want to fall back into the time loop.
+
+#Perdy
+437 = Hello Pretty.
+438 = Do you want to fuck for a while?
+439 = Let's go quiet little girl that I do not bite.
+440 = Take out friends.
+
+441 = Wait, you're legal right?
+442 = 20 years.
+443 = Oops I'm sorry I don't date under 40s.
+
+444 = But when you grow up and become legal, I invite you to fuck, what do you think?
+445 = Why don't you say anything?
+446 = I bring condoms.
+447 = Are you not interested in young men like me?
+
+448 = Although it may not seem like it, I am only 10 years old.
+
+#Mivi
+449 = Now I am Murciecat.
+
+#Mivi Human
+450 = Hi Kaley.
+451 = Hello Murciecat.
+452 = I am back to normal.
+453 = I wonder where my little boss has gone.
+
+454 = I hope that new products will arrive in my store very soon.
+455 = What does the Murciecat say?
+456 = What is your store?
+
+457 = But I bought it from a fat guy.
+458 = I only had to give him 4 pieces of Colztrok, quite a bargain.
+
+459 = You didn't tell me your name.
+460 = I just know he was a fat guy.
+
+461 = Buy buy what you want.
+
+462 = They say my Mom is waiting for me in Kentrania?
+463 = Okay, I'll go there later.
+464 = I will pack my things first.
+465 = My little boss scares me.
+
+466 = In a moment I will.
+
+#Mivi Dead
+467 = Pipipipipi :'C
+
+#Sylvie
+468 = Hello, my name is Sylvie.
+469 = Have you seen my little boy?
+470 = Since we were transformed he hull from home.
+471 = His name is Mivi and he is a very spoiled child.
+
+472 = Mivi, where are you?
+
+473 = Mivi is you?
+474 = Where are you Mivi?
+475 = Mivi?
+476 = You are not Mivi.
+
+477 = Mivi, if I find you I will kill you.
+478 = I finally found this asshole boy.
+479 = But why haven't I returned to normalcy and yes?
+480 = I hit him the beating of his life to get rid of his asshole.
+481 = What? Do you also want me to punish you?
+
+482 = The other will be worse off.
+
+#Jonathan
+483 = Hello, my name is Jonathan Jimenez.
+484 = What are you doing here girl?
+485 = Haven't you noticed that the whole world has become somewhat strange?
+486 = Some strange creatures have also come out.
+
+487 = Did you call me Dad?
+
+488 = Jump, Jump.
+489 = I don't have children.
+490 = Hello Murciecat, how have you been?
+491 = Do you want to stop by for a cup of coffee?
+
+492 = Jump, Jump.
+493 = Jump, Jump.
+
+494 = Okay, I'll go with you.
+
+#Crazy clown
+495 = Welcome to my circus, if you pay me with Colztrok fragments I will let you in.
+
+#NPC 1
+496 = Hey hello, how are you new girl? You seem to have fallen from the sky.
+497 = What? Are you from there?
+498 = Look girl there is not much to do around here, there are 4 routes you can follow.
+
+499 = To the EAST is the PARK.
+500 = It is a fairly quiet place in my opinion, although you have to do a lot of stunts.
+501 = If you ask me, I wouldn't go there in the first place.
+
+502 = To the WEST is the CEMETERY.
+503 = Believe it or not, it is the place I most recommend visiting.
+504 = They say that in the church they keep the key to enter.
+
+505 = There is also the GREAT BUILDING which is quite a tall place and is controlled by some little girls whom they call Las Gemelas.
+507 = They like to play a lot of pranks and put invisible walls everywhere to confuse their employees.
+507 = The most experts who already know the traps may play tricks on you, they even say that the key to enter the building is multipurpose.
+
+508 = AND BELOW is the UNDERGROUND, which you arrive below the place where you keep the game.
+509 = It is quite a confusing place where you get lost very easily.
+510 = Some say he is bewitched.
+
+511 = How do I know all that?
+512 = I don't know, I'm just an NPC.
+
+513 = Hello again girl.
+514 = What brings you back to these places?
+515 = Now you should continue your way through the UNDERGROUND.
+
+516 = The UNDERGROUND is guarded by the Great Worm of Eternus.
+517 = Although the mad magician who lives in the church says he is an impostor.
+518 = You should ask him where is the key to enter the SUBTERRANEO.
+
+519 = I wish you luck on your journey.
+
+520 = Very well I see that you have already returned again.
+521 = I don't know how you do to go back and forth so often.
+522 = Now you should continue your way through the PARK.
+
+523 = The PARK is guarded by the Adbornian the Guardian of the Forest.
+524 = Since the PARK is connected to the forest he sometimes calls creatures to help him.
+525 = To go with him you should first get the key to the PARK, the last time I heard about it, El Gordo had it.
+526 = Ask him where it could be.
+
+527 = Good luck, keep it up.
+
+528 = Good job, you're back again.
+529 = I see you came back from the PARK.
+530 = Keep going, you only have one way to go, now you should continue your way through the large BUILDING that is to the right of the city.
+
+531 = The BUILDING is guarded by Las Gemelas.
+532 = In the BUILDING there are several workers and Las Gemelas play a lot with the illusions in their decoration.
+533 = To go with them you should first get the key to the BUILDING, they say that a worker who resigned has it.
+534 = He is on the outskirts of the PARK, talk to La Gorda to build some platforms for you to reach the worker.
+
+535 = I'm starting to feel weird. Am I waking up? Or Am I dying?
+
+536 = Come on up, they just finished building the platform. It is further to the right.
+
+536 = The BUILDING is guarded by Las Gemelas.
+538 = There are several workers in the BUILDING and Las Gemelas play a lot with illusions in their decoration.
+
+539 = Come on up, they just finished building the platform. It is further to the right.
+
+540 = Good job, you're back again.
+441 = I see you came back from the PARK.
+542 = Keep it up, you only have one way to go, now you should continue your way through the large BUILDING that is to the right of the city.
+
+543 = The BUILDING is guarded by Las Gemelas.
+544 = There are several workers in the BUILDING and Las Gemelas play a lot with illusions in their decoration.
+545 = I see you already got the BUILDING key.
+546 = Be careful with The Twins, they are very powerful.
+
+547 = I'm starting to feel weird. Am I waking up? or Am I dying?
+
+548 = ...
+549 = ...
+550 = ...
+
+551 = ...
+552 = ...
+553 = ...
+554 = Mom ?
+
+555 = ...
+
+#NPC 2
+556 = Do not go to the CEMETERY.
+557 = I am quite scared, there is a giant sphere that kills everyone it sees.
+558 = My husband's father is near the CEMETERY.
+559 = He performs quite strange activities, I think that sphere drove him crazy.
+560 = There are some who say that they have captured a demon, that scares me a lot.
+
+561 = My daughter wears very strange ears.
+562 = I think it needs to mature.
+563 = That is why I have her locked up at home.
+564 = You are a very mature girl.
+565 = What? you are 20 years old? ...
+
+566 = Be careful when you go to the CEMETERY.
+567 = See you ...
+
+568 = My daughter says that she is angry with her little friend.
+569 = But I already discovered your secret.
+570 = I think they are already dating.
+571 = !! Oops !! I'm so excited!!!.
+572 = My daughter is going to marry a real heartthrob, a very formal person and I like that.
+573 = Although I don't like that they go away to play very far, that's why I leave her locked up.
+574 = How good that I made her throw away that SUBTERRANEO key where she and Juanito were going to make out.
+
+575 = I am quite afraid of the UNDERGROUND, I don't know how Bunny and Juanito dare to go there.
+576 = I think it needs to mature.
+577 = Although Juanito is a very bad influence, I like how mature he is.
+578 = You are a very mature girl.
+579 = Or rather adult now.
+
+580 = Be careful when you go to the UNDERGROUND.
+581 = See you ...
+
+582 = The PARK is a nice place but I'm afraid to go there.
+583 = If you're looking for the key, the fat guy has it.
+584 = I think they call him El Gordo.
+585 = And by the way I haven't introduced myself, my name is Miriam.
+586 = My husband's name is Hector, he's the guy you meet in the center of the city, he likes to walk around.
+587 = And my daughter's name is Bunny, she likes to wear big bunny ears and is also very immature.
+588 = Her boyfriend's name is Juanito, I hope and one day they will get married.
+589 = They have another little friend out there that I don't like at all, his name is Pepper.
+
+590 = There is also the old wizard who is near the CEMETERY.
+591 = And your assistant Mer, the magician's apprentice, is new around here.
+592 = They say they have a demon captured in the church.
+593 = There are also Murciegato and El Gordo, who have a great rivalry with each other.
+594 = And the building worker, La Gorda, there are those who say that she and El Gordo are related because they are very similar, but it seems that they do not even know each other.
+
+595 = Be careful when you go to the PARK.
+596 = See you ...
+
+597 = The BUILDING is the best place here.
+598 = When my daughter grows up I would like her to be a successful businesswoman and work for Las Gemelas.
+599 = The key to enter was stolen by a suicidal maniac.
+600 = If you are looking for it, it is in the highest part of here and it is about to kill itself.
+
+601 = To get to him, talk to the BUILDING worker.
+602 = She will know how to get there.
+
+603 = Luck in the BUILDING.
+604 = Goodbye.
+
+605 = ...
+606 = ...
+607 = ...
+608 = Pepper don't hit my daughter!
+
+609 = ...
+610 = ...
+
+#NPC 3
+611 = Hello my name is Mer, nice to meet you.
+612 = I am also new here, I have not much to have arrived.
+613 = But as soon as I arrived I got a job as Wizard's assistant.
+614 = I know your face is a bit strange but your research is interesting.
+
+615 = One day I will be the best magician in the world.
+
+616 = I hope and it hasn't been long since I left my home in Gon-Mer.
+
+617 = I have memory loss and I don't know how I got here.
+618 = The last I knew before I got here was that I was being hunted in Gon-Dre.
+
+619 = I will continue my investigations in the CEMETERY.
+620 = I hope the old wizard's little devil will give me the key I need to enter.
+
+621 = I think I am beginning to regain my memory.
+622 = Before I was the most powerful magician in the universe?
+623 = I have quite blurred memories.
+
+624 = I need to remember better.
+
+625 = ...
+626 = I have killed the old wizard.
+627 = I would like to forget what I have done.
+
+628 = Don't you want to die too?
+
+#NPC 4
+629 = I am hungry.
+630 = Are you scratching my belly?
+631 = There is the Dream world found in dimension E8. Although consciousness resides in the primordial world or Dimension E10.
+632 = The dream dimension is the intermediate layer of consciousness that connects the Lucid world and the Primordial World.
+
+633 = I want a little monkey.
+
+634 = The Celestial dimension also called Dimension E9 is above the dream world, some even say that this dimension is an extra dimension of the same world.
+635 = But the truth is that despite its similarities it requires an even greater state of energy to be able to travel between it.
+636 = This dimension is the 3rd layer of consciousness.
+637 = As in the dream world, creatures also inhabit this dimension, although their origin is different from those of this world.
+638 = The beings of the celestial world are not aware of what happens in the lower dimensions, they see in 8 Dimensions.
+639 = Some can materialize in lower dimensions.
+
+640 = I want a little monkey.
+
+641 = I'm still hungry.
+642 = I will eat a jar of mayonnaise.
+643 = What? When you are hungry you eat anything.
+
+644 = I dropped my changuichito.
+
+645 = What do you want to go to the PARK with, huh?
+646 = First you have to answer these 3 questions.
+647 = Okay, I admit, I don't have the key. I gave it to the Murciecat with the cat face.
+
+648 = I prepared another monkey.
+
+649 = Ohh the PARK key.
+650 = I thought you said the starter key.
+651 = Okay, okay, have the key.
+652 = * You have obtained the PARK key *
+
+653 = That Murciecat stole my little monkey.
+
+654 = I made Murciecat feel bad.
+655 = Withdrew from the joke show.
+656 = That feels so good.
+657 = What? Have you never had an enemy?
+
+658 = He stole my changuichito and I stole his hopes of living.
+
+659 = ...
+660 = ...
+661 = Changuichito.
+662 = ...
+
+663 = ...
+
+#NPC 5
+664 = Are you a girl?
+665 = What is your name?
+666 = Kaley?
+667 = How old are you?
+668 = Where do you come from?
+669 = Why are you so small?
+670 = By the way my name is Juanito.
+
+671 = Bunny tells me I'm ugly.
+672 = Although to me we all look the same.
+
+673 = Sometimes we go to play SUBTERRANEO.
+674 = But it is too dangerous to be there, because there is one of Colztrok's guardians.
+
+675 = Goodbye girl.
+676 = It was nice meeting you.
+
+677 = Hello Kaley! How are you?
+678 = I am sad.
+679 = Bunny got mad and doesn't want to play with me anymore.
+680 = She even gave me her SUBTERRANEO key where we were going to play.
+
+681 = What? Do you want it?
+682 = Take it, I'll give it to you.
+683 = * You have obtained the SUBTERRANEO key *
+
+684 = I'll be around if you want to play with me.
+
+685 = Hello Kaley! How are you?
+686 = I am no longer sad.
+687 = We should play a game.
+688 = What do you say?
+689 = Okay, I'll wait for you to defeat the guardians.
+
+690 = See you later.
+
+691 = Bunny is no longer mad at me.
+692 = We're even dating.
+693 = But now Pepper is the one who's mad at us.
+
+694 = I don't know what's wrong with Pepper.
+695 = Do you think he likes me?
+
+696 = Likewise I only have eyes for Bunny.
+697 = He is the love of my life.
+
+698 = Bunny is the love of my life.
+699 = <3
+
+700 = Pepper is crazy, she had me locked up and almost killed me.
+701 = But it doesn't matter since I think they all went crazy.
+702 = I can't even find my beloved Bunny.
+
+703 = Why is everyone acting so weird?
+704 = Where is Bunny ?
+
+705 = Where is Bunny ?
+
+#NPC 6
+706 = I don't have the key to the CEMETERY! The little devil has it!
+707 = Oh wait ... I thought you were my assistant Mer, you sure are new here.
+708 = This is the dream world of the great Colztrok.
+709 = All those with the unified consciousness are here.
+710 = Great glory to Colztrok.
+711 = Death to Kétradim.
+
+712 = If Colztrok dies in the dream world we are lost.
+
+713 = You ... You do not have the unified consciousness with the great Colztrok.
+714 = How dare you come to me after committing such blasphemy?
+715 = Are you really...?
+716 = The Great Colztrok and you ...
+717 = Do you know what that means?
+
+718 = What? Looking for a key?
+719 = For the UNDERGROUND?
+
+720 = I will never give it to you!
+721 =  I'll tell Miriam's daughter Bunny not to give you hers.
+
+#NPC 7
+722 = The twins are playing higher.
+723 = Come on, they are waiting for you.
+
+724 = Don't worry, they don't bite.
+
+725 = Come on, they are waiting for you.
+
+726 = The twins are playing higher.
+727 = Come on, they are waiting for you.
+
+728 = Don't worry, they don't bite.
+
+729 = Come on, they are waiting for you.
+
+730 = The twins are playing higher.
+731 = Come on, they are waiting for you.
+
+732 = Don't worry, they don't bite.
+
+733 = Come on, they are waiting for you.
+
+734 = Are you looking for the key to the BUILDING to go play with Las Gemelas?
+735 = A crazy worker stole them from here.
+736 = It is found in the highest place next to the PARK.
+737 = I will talk to the workers so that they build some platforms to get there.
+738 = * building *
+739 = * building *
+740 = * building *
+741 = ...
+742 = Done.
+743 = * Platforms built *
+
+744 = The platforms are to the right of the city.
+745 = The Twins will be waiting for you.
+
+746 = Come on, the Twins are waiting for you.
+
+747 = Don't worry, they don't bite.
+
+748 = Come on, they are waiting for you.
+
+749 = The twins are playing higher.
+750 = Come on, they are waiting for you.
+
+751 = Don't worry, they don't bite.
+
+752 = Come on, they are waiting for you.
+
+753 = The twins never existed ?
+754 = They are supposed to kill you.
+
+755 = ...
+
+756 = ...
+
+#NPC 8
+757 = Hello girl.
+758 = Surely you still can't reach the bell.
+759 = Your mommy won't let you go out to play?
+760 = I am Bunny, the most beautiful girl of all, and I am tall, not like you.
+761 = L I t t l e g I r l.
+
+762 = Juanito is too ugly.
+763 = But he and I are friends.
+
+764 = I am the prettiest in here.
+
+765 = Hello girl.
+766 = Juanito already told me that he met you.
+767 = I don't like you.
+768 = I got mad at him for that.
+769 = He says he likes you and that makes me furious.
+
+770 = I don't have a key.
+771 = I gave it to Juanito in a fit of courage.
+
+772 = Hello girl.
+773 = What are you looking for what?
+774 = Looking for a key?
+775 = I gave it to Juanito.
+
+776 = I am not mad at him.
+777 = I like it.
+
+778 = Hi Kaley.
+779 = I am so happy.
+780 = Juanito and I are finally dating.
+781 = Get away from him.
+
+782 = Stay away from Juanito.
+783 = It's mine.
+
+784 = Hello ...
+785 = I can't find Juanito.
+786 = I hope and Pepper didn't do anything to him.
+787 = He's been acting pretty weird lately. She is kind of crazy.
+
+788 = I'll go find it.
+789 = Juanito? Where are you?
+
+#NPC 9
+790 = Ohhh you have already faced Colztrok in the past ...
+791 = My name?
+792 = It is Zenómeri, I am the son of Iegvó and I am not a little devil. Life inside Colztrok's dream is very horrible.
+793 = I have the key to the Cemetery, you will need it later.
+794 = * You have obtained the CEMETERY Key. *
+
+795 = The only way out of here is by waking up.
+796 = Yes, you are in a dream, but that does not take away from the fact that it is real.
+
+797 = Colztrok is about to die.
+
+798 = Being in here you are subject to the same lower dimensional laws of survival.
+799 = If Colztrok assimilates you, you become completely part of it, or if it dissimilates you while being here, say goodbye to your consciousness.
+
+800 = To defeat Colztrok you need to defeat him in the dream world.
+801 = I plan to escape from here, I would not face Colztrok or his own dream, even if he is the weakest being in the dream existence.
+802 = So good luck in your fight.
+
+803 = Be careful when you face unknown creatures.
+804 = Good luck in your fight.
+805 = See you.
+
+806 = To defeat Colztrok you need to defeat him in the dream world.
+807 = I plan to escape from here, I would not face Colztrok or in his own dream, even if he is the weakest being in the dream existence.
+808 = So good luck in your fight.
+809 = See you.
+
+810 = I only try to get out of here as much as you do.
+811 = But the only thing I can do is advise, I am too weak in this world.
+
+812 = Yes, my tail is real.
+813 = Stop looking at her.
+814 = Better continue to defeat the Guardians.
+
+815 = No, I don't know how to fly.
+816 = I also do not get laser beams from my eyes.
+
+817 = Go for the UNDERGROUND Guardian.
+818 = See you.
+
+819 = No, I am not a devil.
+820 = I am a direct descendant of the Iegvó lineage.
+821 = A pureblood Iegvosian.
+
+822 = Iegvó's empire went into decline.
+823 = The lands of Niria were the last of his legacy.
+
+824 = I do not grant wishes.
+825 = That's the old wizard, but the apprentice wizard killed him.
+826 = I hope that Mer is not the same one I have heard about.
+827 = The Mer that I know is the most powerful magician of all time.
+828 = He is even wanted by the entire Iegvosian Empire.
+
+829 = Keep it up.
+830 = .............
+
+831 = ...
+832 = Kétradim?
+833 = ...
+834 = ...
+835 = The Drimtets seek revenge.
+
+836 = ...
+837 = ...
+
+#NPC 10
+838 = Juanito and Bunny never invite me to play with them.
+839 = For me they like each other.
+
+840 = Do you want to play a game?
+841 = In the FOREST there is a guardian, the magician seems quite interested in him.
+842 = He says that if you bring him his head he will grant you 3 wishes.
+
+843 = Remember, 3 wishes...
+844 = What are you waiting to go to the forest?
+
+845 = Juanito and Bunny are fighting.
+846 = This is my chance with Bunny.
+
+847 = I like Bunny, he is too adorable.
+848 = But she and Juanito like each other and that bothers me.
+
+849 = I need to plan how Bunny will like me.
+850 = Hey, you don't have a girlfriend?
+
+851 = Stupid Juanito and Bunny.
+852 = How I hate them.
+
+853 = First they don't invite me to play and then they become boyfriends.
+854 = What are you looking at me?
+
+855 = Bunny has to be just mine.
+856 = Stay away from Bunny.
+
+857 = At last Bunny and I can be girlfriends.
+858 = I already fixed everything.
+
+859 = Juanito will no longer cause me problems.
+860 = I will prepare for my date with Bunny.
+
+861 = I want to have many children with Bunny.
+862 = Stay away from Bunny.
+
+863 = It does not matter that I am also a woman.
+864 = That will never stop me.
+
+865 = ...
+866 = Stupid Bunny.
+
+867 = ...
+868 = Rejected me.
+
+869 = ...
+870 = And I ... I'm glad of what I did
+
+871 = ...
+872 = ...
+
+#NPC 11
+873 = Hi Kaley, did you see me? It's me! Murciecat.
+874 = Being a part of Colztrok feels great.
+875 = I hope and you have not come to get me out of here.
+876 = It is super fun to have a unified consciousness.
+
+877 = Please don't go destroy Colztrok.
+878 = It feels fun.
+
+879 = Hi Kaley.
+880 = How have you been?
+881 = I can't accompany you yet.
+882 = I have important work to do.
+
+883 = What work?
+884 = Now I'm a comedian.
+
+885 = See you later, I have some good jokes to prepare.
+886 = It was a joke, if you want to stay as long as you want.
+
+887 = Didn't you understand?
+888 = I have to improve my repertoire.
+
+889 = What?
+890 = Am I not very funny?
+
+891 = So are you looking for the PARK key huh?
+892 = Fat man gave it to me.
+893 = But I gave it back to him.
+894 = Don't you want to hear a joke?
+
+895 = Why do the seals in the circus always look up?
+896 = Because that's where the spotlights are.
+
+897 = Do you know how a magician looks after eating?
+898 = Magordito.
+
+899 = Hello, is Agustín here?
+900 = No, I am uncomfortable.
+
+901 = Once upon a time there was a dog named joke
+902 = One day he was hit by a car and the joke is over.
+
+903 = Good morning. I am looking for work.
+904 = Are you interested as a gardener?
+905 = Leave money? If what I'm looking for is work!
+
+906 = Hello, do you have books for fatigue?
+907 = Yes, but they are out of stock.
+
+908 = Am I not very funny?
+909 = Soon I will have my own stand-up program.
+
+910 = Hello Kaley.
+911 = I missed you.
+912 = I will no longer work as a comedian.
+913 = I think I'm not cut out for this.
+
+914 = Now I will be a dancer.
+915 = Don't you want to see me dance?
+
+916 = What?
+917 = Doesn't it even look like I'm dancing?
+
+918 = Let me accompany you.
+919 = Okay I'll wait for you to defeat the next guardian.
+
+920 = Kaley, you're back!
+921 = I've been waiting for you a long time.
+922 = I've even been preparing new jokes.
+
+923 = Hey Kaley, the people here are acting very strange.
+924 = I am very afraid, let me be with you.
+925 = * Murciecat now accompanies you *
+
+#NPC 12
+926 = I don't like my job in the GREAT building anymore.
+927 = I don't recommend working there.
+
+928 = Have this give you this, I don't need it anymore.
+929 = * You have obtained the BUILDING key *
+
+930 = Don't ask, just enjoy it.
+
+931 = I think this is the best place to do this.
+932 = I never want to suffer again.
+933 = See you.
+
+934 = See you.
+
+#Final
+935 = In the end, Kaley, upon assimilating Colztrok and obtaining full control of her powers, acquires the title of Kaley the Dream Warrior and Murciecat that of Murciecat the Ghost of Niuirth.
+936 = Kaley meets her Father Jonathan Jimenez, her Uncle Deon Ardamgli, and a stranger who calls herself Luna, and together they escape the Shadowlands of Niria.
+937 = The fate of the Shadowlands is indifferent to the fate of the dream entity Kobeth-Mo (Kobby) or the Celestial entity Balul-Tha (Trapeze).
+938 = *** Since the story has ended, all progress will be deleted and the game will be closed ***
+
+#Additional features
+939 = you regenerate
+940 = stamina/second
+941 = regeneration time
+942 = seconds
+943=Dash
+944=Jump x2
+945=Airdash
+946=Swim
+947=Shield
+948=Colztrok
+949=Travel to E8
+950=Long Hook
+
+#Dialogo Mision
+1000=Select any object you want me to analyze.
+
+#Dialogo Base
+1001=Look Kalley, it's
+
+#Dialogo 1 
+1002=Did you see those weird balls Kaley?
+1003=They are fragments of Colztrok.
+1004=They seem to react to you if you get close to them.
+1005=Why don't you try to pick some up?
+
+#Dialogo 2
+1006=Watch out for those spikes.
+1007=They can cause you a lot of damage.
+
+#Dialogo 3
+1008=Look there are more fragments of Colztrok.
+
+#Dialogo 4
+1009=Kaley, did you see?
+1010=Try to pick up that item.
+1011=I think it's a bottle of regeneration.
+
+#Dialogo 5
+1012=If your life has been damaged you can regenerate a certain percentage using a regeneration bottle.
+1013=For that you have to hold down the (X) key in Keyboard or (Y) button in Gamepad and the used bottle will be used up.
+1014=First pick up the bottle and then hold down the (X) key in Keyboard or (Y) button in Gamepad.
+
+#Dialogo 6
+1015=There seems to be another regeneration bottle up there.
+1016=But it's too high, you better leave it for later.
+
+#Dialogo 7
+1017=Did you notice?
+1018=Your maximum life has increased.
+1019=Why is it that the fragments of Colztrok can increase your life?
+1020=You should look for more fragments and some way to regenerate that new life.
+
+#Dialogue 8
+1021 = Look Kaley, there you can rest.
+1022 = You will regenerate all your life and the flasks of regeneration.
+
+#Dialogue 9
+1023 = It appears to be a common door.
+1024 = Try to open it.
+
+#Dialogue 10
+1025 = Be careful, you are not going to drown.
+1026 = Hold your breath.
+
+#Dialogue 11
+1027 = It seems that we fought it.
+1028 = Now we are safe.
+
+#Dialogue 12
+1029 = It looks like the door from a while ago.
+1030 = But this one has a lock, we should find the key.
+
+#Dialogue 13
+1031 = I already found the key.
+1032 = I saw it first.
+
+#Dialogue 14
+1033 = It seems that we have to use the only key we had to get out of here.
+1034 = Well, let's find another one.
+
+#Dialogue 15
+1035 = Don't be afraid Kaley.
+1036 = Well I am afraid, but we have no other way out.
+
+#Dialogue 16
+1037 = We are safe here.
+1038 = Hey, I just found another key.
+
+#Dialogue 17
+1039 = You know Kaley, I know this place, I've been here before.
+1040 = Further ahead is my store, we should see what there is.
+
+#Dialogue 18
+1041 = Who the heck leaves a missile launcher in the middle of the road?
+
+#Dialogue 19
+1042 = It can't be !!!
+1043 = My store was stolen :C
+1044 = And the items I sold to Kobby are in place.
+1045 = I mean, the items Kobby stole from me>: c.
+
+#Dialogue 20
+1046 = This item will increase your health regeneration speed.
+
+#Dialogue 21
+1047 = Be careful Kaley.
+1048 = Colztrok's power is becoming unstable.
+1049 = The next time you take great damage, you will likely lose powers.
+1050 = Remember to regain Colztrok's power when you lose it.
+
+#Dialogue 22
+1051 = That is a lever, try to hit it with a sword.
+1052 = Hey don't be mad at me, a lot of people don't get it the first time.
+
+#Dialogue 23
+1053 = That stamina in its purest state.
+1054 = Picking it up will increase your Stamina regeneration speed.
+
+#Dialogue 24
+1055 = Well, it seems that now the interesting thing begins.
+1056 = Up and atom!
+
+#Dialogue 25
+1057 = Have you noticed these things on the ground?
+1058 = There should be some way to break them.
+
+#Dialogue 26
+1059 = Again these rocks.
+1060 = Don't forget these places.
+
+#Dialogue 27
+1061 = Look Kaley !!.
+1062 = Our breakfast.
+
+#Dialogue 28
+1063 = Kaley ....
+1064 = I feel like something bad is going to happen.
+
+#Dialogue 29
+1065 = Don't ask me, I don't understand what's happening either.
+1066 = Now how can we get out of here?
+
+#Dialogue 30
+1067 = Interesting.
+
+#Dialogue 31
+1068 = Where will that door lead us?
+
+#Dialogue 32
+1069 = Try to follow the arrow.
+
+#Dialogue 33
+1070 = Upper the Sea.
+1071 = Upper the sea.
+1072 = Nobody beat us.
+1073 = Take it from me.
+
+#Dialogue 34
+1074 = A lost temple under the sea.
+
+#Dialogue 35
+1075 = This temple now looks like a party hall.
+
+#Dialogue 36
+1076 = These are the gates to Kentrania.
+1077 = I see that we are not very far from Midtra anymore.
+
+#Dialogue 37
+1078 = Kaley be careful.
+1079 = You need to learn to use the DASH and some SHIELD to protect you.
+
+# Dialogue 38
+1080 = Hey Kaley, I'm hungry.
+1081 = We would have cooked some of the pigs we met.
+
+#Dialogue 39
+1082 = Poor Mivi, surely he is dead.
+1083 = !!What have we done?!!.
+
+#Dialogue 40
+1084 = Look above.
+1085 = You need something to shoot the lever.
+
+#Dialogue 41
+1086 = It seems that he cannot reach us here.
+1087 = Now where do we go out?
+1088 = Can you think of a way to defeat these kinds of dark entities?
+
+#Dialogue 42
+1089 = Holy Hats! Kaley.
+1090 = If we lose here we will have to go through it all again.
+1091 = Keep calm Kaley and carry on.
+
+#Dialogue 43
+1092 = This place makes my whiskers stand on end.
+1093 = Are you sure you want to come this way?
+1094 = The clown scared me less.
+
+#Dialogue 44
+1095 = This place terrifies me.
+1096 = It is too difficult.
+1097 = If we had cooked the pigs we would not be struggling so much.
+
+#Dialogue 45
+1098 = Any explanation of how we got to space using the hook?
+1099 = Don't even look at me, I followed you flying here since you always leave me behind.
+1100 = But don't worry, with my Bat-Cat magic I will help you to breathe here.
+
+#Dialogue 46
+1101 = It is the famous Miknokcrin Cathedral.
+1102 = I wonder how we got here if we came from Niria?
+1103 = Well it doesn't matter, but you should explore before entering the Cathedral.
+
+#Dialogue 47
+1104 = Kaley...
+1105 = I am afraid of fairs.
+1106 = I just hope we don't meet the clown.
+
+#Dialogue 48
+1107 = Did you see?
+1108 = How scary, the subject disappeared.
+1109 = I tell you that clowns are evil.
+
+#Dialogue 49
+1110 = Kaley ?
+1111 = This is a trap.
+
+#Dialogue 50
+1112 = .........
+1113 = Don't even think about pressing the red button.
+
+#Dialogue 51
+1114 = Finally, the exit of the maze.
+1115 = Don't forget to pick up the item.
+
+#Dialogue 52
+1116 = "Did you notice Kaley?"
+1117 = "The name of the store ..."
+1118 = "It's my little store :c I'm the owner."
+1119 = "I closed it temporarily, why will it remain open?"
+
+#Dialogo 53
+1120="That's a Stamina Regeneration Flask."
+1121="Picking it up will increase the maximum amount of stamina."
+
+#Dialogue Missions
+1500 = we have to go down.
+1501 = We have to get out of town.
+1502 = We are going to defeat the enemy in the area.
+1503 = I think we have missed D:
+1504 = To swim :D.
+1505 = You should get Colztrok shards to buy items from the shop.
+1506 = You have to defeat the clown.
+1507 = We have to travel to Celestia.
+1508 = We have to travel to Miknokcrin.
+1509 = We have to find a way to get off the planet Niria.
+
+#ACTIONS
+2000 = "Exiting ..."
+2001 = "Traveling to the Dream World ..."
